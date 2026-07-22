@@ -1,4 +1,131 @@
+<!doctype html>
+<html lang="ru-RU">
+<head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Fringe Analysis</title>
+    <style>
+        html { scroll-behavior: smooth; }
+        body { color: #444444; font-family: 'Open Sans', sans-serif; margin: 0; background-color: #ffffff; }
+        .cm-header-top-row { background-color: #0D0F11; padding: 15px 0; color: #F4F4F4; }
+        .cm-container { max-width: 1160px; margin: 0 auto; padding: 0 15px; display: flex; justify-content: space-between; align-items: center; }
+        .cm-header-main-row { padding: 24px 0; background: #252728; }
+        .cm-site-title a { color: #F5F5F5; font-family: 'IBM Plex Serif', serif; font-size: 28px; text-decoration: none; font-weight: 700; }
+        .cm-header-bottom-row { background-color: #0D0F11; padding: 10px 0; }
+        .cm-primary-menu { list-style: none; padding: 0; margin: 0; display: flex; gap: 20px; }
+        .cm-primary-menu a { color: #FFFFFF; text-decoration: none; font-family: 'Inter', sans-serif; font-size: 15px; }
+        .cm-primary-menu a:hover { color: #e14d36; }
+        .cm-hero-section { margin: 40px auto; max-width: 1160px; display: flex; gap: 20px; }
+        .cm-main-banner { flex: 2; position: relative; border-radius: 8px; overflow: hidden; height: 580px; background-color: #1a1a1a; }
+        .cm-main-banner img { width: 100%; height: 100%; object-fit: cover; }
+        .cm-banner-side { flex: 1; display: flex; flex-direction: column; gap: 20px; }
+        .cm-side-post { position: relative; border-radius: 8px; overflow: hidden; height: 280px; background-color: #1a1a1a; }
+        .cm-side-post img { width: 100%; height: 100%; object-fit: cover; }
+        .cm-banner-text { position: absolute; bottom: 0; left: 0; right: 0; padding: 20px; background: linear-gradient(transparent, rgba(0,0,0,0.85)); color: #fff; }
+        .cm-category { display: inline-block; padding: 4px 8px; background: #e14d36; font-size: 10px; font-weight: 600; border-radius: 3px; margin-bottom: 10px; text-transform: uppercase; }
+        .cm-category.gadgets { background: #f09819; }
+        .cm-category.sports { background: #8269df; }
+        .cm-banner-text h2, .cm-banner-text h5 { margin: 0 0 10px 0; font-family: 'IBM Plex Serif', serif; }
+        .cm-footer { background-color: #0D0F11; padding: 20px 0; text-align: center; color: #BDBDBD; font-family: 'Inter', sans-serif; margin-top: 40px; }
+    </style>
+</head>
+<body id="top">
+    <header>
+        <!-- Блок Trending -->
+        <div class="cm-header-top-row">
+            <div class="cm-container">
+                <div><strong>Trending:</strong> Scientific approach to ufology.</div>
+                <div>13.07.2026</div>
+            </div>
+        </div>
+        
+        <div class="cm-header-main-row">
+            <div class="cm-container">
+                <h1 class="cm-site-title"><a href="index.html">Fringe Analysis</a></h1>
+            </div>
+        </div>
+        
+        <div class="cm-header-bottom-row">
+            <div class="cm-container">
+                <ul class="cm-primary-menu">
+                    <!-- Кнопка Home открывает главную страницу и ведет к Trending / Latest -->
+                    <li><a href="index.html#top">Home</a></li>
+                    <li><a href="#">Suppressed Tech</a></li>
+                    <li><a href="#">Hidden History</a></li>
+                    <li><a href="#">Anomalies & Phenomena</a></li>
+                </ul>
+            </div>
+        </div>
+    </header>
 
+    <!-- Главный блок с Latest News -->
+    <main class="cm-hero-section">
+        <div class="cm-main-banner">
+            <img src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80" alt="Featured">
+            <div class="cm-banner-text">
+                <span class="cm-category">Latest News</span>
+                <h2>New Artist Takes the Music Scene by Storm with Unforgettable Memory</h2>
+                <p>May 05, 2025 • Moana Doe</p>
+            </div>
+        </div>
+        <div class="cm-banner-side">
+            <div class="cm-side-post">
+                <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80" alt="Gadgets">
+                <div class="cm-banner-text">
+                    <span class="cm-category gadgets">Gadgets</span>
+                    <h5>New Smartphone Feature Could Change Way We Use Devices</h5>
+                </div>
+            </div>
+            <div class="cm-side-post">
+                <img src="https://images.unsplash.com/photo-1461896836934-ffe607ba8211?auto=format&fit=crop&w=600&q=80" alt="Sports">
+                <div class="cm-banner-text">
+                    <span class="cm-category sports">Sports</span>
+                    <h5>Latest Updates From the Sports Arena</h5>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <footer class="cm-footer">
+        <div>&copy; 2026 Fringe Analysis.</div>
+    </footer>
+</body>
+</html>        </div>
+    </header>
+
+    <!-- Главный блок с Latest News -->
+    <main class="cm-hero-section">
+        <div class="cm-main-banner">
+            <img src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80" alt="Featured">
+            <div class="cm-banner-text">
+                <span class="cm-category">Latest News</span>
+                <h2>New Artist Takes the Music Scene by Storm with Unforgettable Memory</h2>
+                <p>May 05, 2025 • Moana Doe</p>
+            </div>
+        </div>
+        <div class="cm-banner-side">
+            <div class="cm-side-post">
+                <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80" alt="Gadgets">
+                <div class="cm-banner-text">
+                    <span class="cm-category gadgets">Gadgets</span>
+                    <h5>New Smartphone Feature Could Change Way We Use Devices</h5>
+                </div>
+            </div>
+            <div class="cm-side-post">
+                <img src="https://images.unsplash.com/photo-1461896836934-ffe607ba8211?auto=format&fit=crop&w=600&q=80" alt="Sports">
+                <div class="cm-banner-text">
+                    <span class="cm-category sports">Sports</span>
+                    <h5>Latest Updates From the Sports Arena</h5>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <footer class="cm-footer">
+        <div>&copy; 2026 Fringe Analysis.</div>
+    </footer>
+</body>
+</html>
 
 Чат с Gemini
 <!doctype html> <html lang="ru-RU"> <head>
