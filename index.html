@@ -1,315 +1,80 @@
-<!DOCTYPE html>
-<html lang="ru">
+<!doctype html>
+<html lang="ru-RU">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Free Energy — Бестопливная Энергетика</title>
-    <!-- Подключение шрифтов Google Fonts -->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Serif:wght@600;700&family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="profile" href="http://gmpg.org/xfn/11"/>
     
-    <style>
-        /* Базовые сбросы и стили */
-        * {
-            box-sizing: border-box;
+    <title>Fringe Analysis</title>
+    
+    <meta name='robots' content='max-image-preview:large' />
+    <link rel='dns-prefetch' href='//editor-static-bucket.elementor.com' />
+    <link rel='dns-prefetch' href='//fonts.googleapis.com' />
+    <link rel='stylesheet' id='angie-google-fonts-css' href='https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap' media='all' />
+
+    <style id="site-base-styles">
+        body {
+            font-family: 'Roboto', sans-serif;
             margin: 0;
             padding: 0;
+            background-color: #f4f5f7;
+            color: #27272a;
         }
-        body {
-            background-color: #0f1115;
-            color: #222222;
-            font-family: 'Inter', sans-serif;
-            line-height: 1.6;
-            padding: 20px;
+        header {
+            background-color: #16181a;
+            color: #ffffff;
+            padding: 25px 20px;
+            text-align: center;
+            border-bottom: 3px solid #257bc1;
         }
-        .container {
-            max-width: 1100px;
-            margin: 0 auto;
+        header h1 {
+            margin: 0;
+            font-size: 28px;
+            letter-spacing: 1px;
+        }
+        .main-container {
+            max-width: 1160px;
+            margin: 40px auto;
+            padding: 0 20px;
+            min-height: 60vh;
+        }
+        .content-card {
             background: #ffffff;
             padding: 30px;
             border-radius: 8px;
-            box-shadow: 0 4px 15px rgba(0,0,0,0.3);
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05);
         }
-
-        /* Hero Banner */
-        .hero-banner {
-            background-color: #0D0F11;
-            border-radius: 8px;
-            min-height: 280px;
-            margin-bottom: 32px;
-            padding: 40px 30px;
-            color: #ffffff;
-            display: flex;
-            flex-direction: column;
-            justify-content: center;
-        }
-        .badge {
-            display: inline-block;
-            background-color: #e14d36;
-            color: #ffffff;
-            padding: 4px 10px;
-            border-radius: 3px;
-            font-size: 11px;
-            font-weight: 700;
-            text-transform: uppercase;
-            letter-spacing: 0.8px;
-            margin-bottom: 16px;
-        }
-        .hero-title {
-            font-family: 'IBM Plex Serif', serif;
-            font-size: 30px;
-            font-weight: 700;
-            line-height: 1.3;
-            margin-bottom: 12px;
-        }
-        .hero-desc {
-            color: #BDBDBD;
-            font-size: 15px;
-            max-width: 720px;
-        }
-
-        /* Заголовки секций */
-        .section-title {
-            font-family: 'IBM Plex Serif', serif;
-            color: #222222;
-            font-size: 22px;
-            margin-bottom: 20px;
-            border-left: 4px solid #c57eef;
-            padding-left: 12px;
-        }
-
-        /* Сетка карточек */
-        .cards-grid {
-            display: flex;
-            gap: 20px;
-            flex-wrap: wrap;
-            margin-bottom: 40px;
-        }
-        .card {
-            flex: 1;
-            min-width: 280px;
-            background: #F8F9FA;
-            border: 1px solid #E0E0E0;
-            border-radius: 6px;
-            padding: 20px;
-            display: flex;
-            flex-direction: column;
-            justify-content: space-between;
-        }
-        .card-tag {
-            font-size: 10px;
-            font-weight: 700;
-            letter-spacing: 0.8px;
-            text-transform: uppercase;
-            margin-bottom: 8px;
-        }
-        .card-tag.tag-1 { color: #8269df; }
-        .card-tag.tag-2 { color: #f09819; }
-        .card-tag.tag-3 { color: #00d084; }
-
-        .card-title {
-            font-family: 'IBM Plex Serif', serif;
-            font-size: 18px;
-            margin-bottom: 10px;
-            line-height: 1.4;
-        }
-        .card-title a {
-            color: #222222;
-            text-decoration: none;
-            transition: color 0.2s;
-        }
-        .card-title a:hover {
-            color: #c57eef;
-        }
-        .card-text {
-            font-size: 13px;
-            color: #4E4E4E;
-            margin-bottom: 16px;
-        }
-        .card-date {
-            font-size: 12px;
-            color: #8F8F8F;
-        }
-
-        /* Таблица патентов */
-        .table-wrapper {
-            overflow-x: auto;
-            margin-bottom: 40px;
-        }
-        table {
-            width: 100%;
-            border-collapse: collapse;
-            font-size: 13px;
-            text-align: left;
-        }
-        th {
-            background-color: #0D0F11;
-            color: #FFFFFF;
-            padding: 12px;
-            border: 1px solid #383838;
-            font-weight: 600;
-        }
-        td {
-            padding: 12px;
-            border-bottom: 1px solid #E0E0E0;
-        }
-        tr:nth-child(even) {
-            background-color: #F8F9FA;
-        }
-        .status-blocked {
-            color: #e14d36;
-            font-weight: 600;
-        }
-
-        /* Призыв к действию (CTA) */
-        .cta-box {
-            background-color: #16181A;
-            border-radius: 8px;
-            padding: 28px;
-            color: #FFFFFF;
-        }
-        .cta-title {
-            font-family: 'IBM Plex Serif', serif;
-            font-size: 20px;
-            color: #c57eef;
-            margin-bottom: 8px;
-        }
-        .cta-text {
+        footer {
+            background-color: #16181a;
+            color: #8f8f8f;
+            text-align: center;
+            padding: 20px 0;
             font-size: 14px;
-            color: #BDBDBD;
-            margin-bottom: 20px;
+            border-top: 1px solid #27272a;
         }
-        .cta-button {
-            display: inline-block;
-            background-color: #c57eef;
-            color: #FFFFFF;
-            padding: 10px 20px;
-            border-radius: 4px;
-            font-weight: 600;
-            text-decoration: none;
-            font-size: 13px;
-            transition: background 0.2s;
-        }
-        .cta-button:hover {
-            background-color: #b05fe3;
+        .has-vivid-red-border-color { 
+            border-color: var(--wp--preset--color--vivid-red) !important; 
         }
     </style>
 </head>
 <body>
 
-    <div class="container">
-        <!-- Hero Banner -->
-        <div class="hero-banner">
-            <div>
-                <span class="badge">Suppressed Tech</span>
-            </div>
-            <h1 class="hero-title">
-                Free Energy: Бестопливная Энергетика и Изъятые Технологии
-            </h1>
-            <p class="hero-desc">
-                Архив исследований, засекреченных патентов и устройств, использующих энергию нулевой точки (ZPE), магнитный резонанс, эфирные поля и сверхединичные (Over-Unity) генераторы.
-            </p>
+    <header>
+        <h1>Fringe Analysis</h1>
+    </header>
+
+    <main class="main-container">
+        <div class="content-card">
+            <h2>Добро пожаловать на Fringe Analysis</h2>
+            <p>Страница успешно настроена и отображается как полноценный веб-сайт.</p>
         </div>
+    </main>
 
-        <!-- Секция: Главные материалы -->
-        <h3 class="section-title">Главные Материалы и Досье</h3>
-
-        <div class="cards-grid">
-            <!-- Статья 1 -->
-            <div class="card">
-                <div>
-                    <div class="card-tag tag-1">Эфирные Поля</div>
-                    <h4 class="card-title">
-                        <a href="#">Башня Ворденклиф: Изъятый эфирный проект Николы Теслы</a>
-                    </h4>
-                    <p class="card-text">
-                        Реконструкция схем беспроводной передачи энергии и съема заряда из ионосферы. Почему финансирование проекта было экстренно остановлено J.P. Morgan.
-                    </p>
-                </div>
-                <div class="card-date">12.07.2026 • Анализ патентов</div>
-            </div>
-
-            <!-- Статья 2 -->
-            <div class="card">
-                <div>
-                    <div class="card-tag tag-2">Гидро-Резонанс</div>
-                    <h4 class="card-title">
-                        <a href="#">Водяной топливный элемент Стенли Мейера</a>
-                    </h4>
-                    <p class="card-text">
-                        Разбор системы высоковольтного расщепления воды на газы Брауна без существенного нагрева. Судебные разбирательства и гибель изобретателя.
-                    </p>
-                </div>
-                <div class="card-date">04.06.2026 • Техническое досье</div>
-            </div>
-
-            <!-- Статья 3 -->
-            <div class="card">
-                <div>
-                    <div class="card-tag tag-3">Квантовый Вакуум</div>
-                    <h4 class="card-title">
-                        <a href="#">Генератор MEG (Motionless Electromagnetic Generator)</a>
-                    </h4>
-                    <p class="card-text">
-                        Патент Тома Бирдена (US Patent 6,362,718). Извлечение электроэнергии из квантовых колебаний вакуума без движущихся механических деталей.
-                    </p>
-                </div>
-                <div class="card-date">18.05.2026 • Депонированные патенты</div>
-            </div>
+    <footer>
+        <div class="cm-copyright copyright">
+            &copy; 2026 Fringe Analysis.
         </div>
-
-        <!-- Секция: Таблица патентов -->
-        <h3 class="section-title">Реестр Подавленных Разработок и Патентов</h3>
-
-        <div class="table-wrapper">
-            <table>
-                <thead>
-                    <tr>
-                        <th>Патент / Проект</th>
-                        <th>Изобретатель</th>
-                        <th>Принцип работы</th>
-                        <th>Статус / Причина блокировки</th>
-                    </tr>
-                </thead>
-                <tbody>
-                    <tr>
-                        <td style="font-weight:600;">US Patent 6,362,718</td>
-                        <td>Том Бирден (Tom Bearden)</td>
-                        <td>Неподвижный электромагнитный генератор (MEG)</td>
-                        <td class="status-blocked">Засекречен (Invention Secrecy Act)</td>
-                    </tr>
-                    <tr>
-                        <td style="font-weight:600;">Water Fuel Cell</td>
-                        <td>Стенли Мейер (Stanley Meyer)</td>
-                        <td>Резонансный разрыв молекулярных связей H₂O</td>
-                        <td class="status-blocked">Патенты изъяты, проект закрыт</td>
-                    </tr>
-                    <tr>
-                        <td style="font-weight:600;">SEG (Searl Effect Generator)</td>
-                        <td>Джон Сёрл (John Searl)</td>
-                        <td>Магнитное роликовое устройство с антигравитацией</td>
-                        <td class="status-blocked">Лаборатория изъята, материалы конфискованы</td>
-                    </tr>
-                    <tr>
-                        <td style="font-weight:600;">N-Machine</td>
-                        <td>Брюс Де Пальма (Bruce DePalma)</td>
-                        <td>Униполярный генератор со сверхединичным КПД</td>
-                        <td class="status-blocked">Вытеснен с рынка, чертежи засекречены</td>
-                    </tr>
-                </tbody>
-            </table>
-        </div>
-
-        <!-- CTA Box -->
-        <div class="cta-box">
-            <h4 class="cta-title">Обладаете чертежами или архивными документами?</h4>
-            <p class="cta-text">
-                Если у вас есть схемы бестопливных генераторов, патенты или сведения о подавлении научных открытий, отправьте их анонимно через нашу форму утечек.
-            </p>
-            <a href="#" class="cta-button">Отправить утечку (Submit a Leak)</a>
-        </div>
-    </div>
+    </footer>
 
 </body>
 </html>
