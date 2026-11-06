@@ -1,53 +1,86 @@
-📊 Science News Report — 2026-11-06 12:06 UTC (5 items found)
-============================================================
+=== DAILY SCIENCE NEWS REPORT ===
+Generated on: 2026-11-06 12:24:17 UTC
 
 === NASA News ===
+- APOD: 2026 November 6 – A Farewell to Swift
+  Link: https://science.nasa.gov/image-article/apod-2026-november-6-a-farewell-to-swift/
 
-📍 Title: APOD: 2026 November 6 – A Farewell to Swift
-🔗 Link: https://science.nasa.gov/image-article/apod-2026-november-6-a-farewell-to-swift/
-🏷️ Tags: astronomy
-📝 Preview: APOD Science APOD APOD: 2026 November 6 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating unive...
-----------------------------------------
+- Midwestern City Lights
+  Link: https://www.nasa.gov/image-article/midwestern-city-lights/
 
-📍 Title: APOD: 2026 November 5 – Enceladus in Silhouette
-🔗 Link: https://science.nasa.gov/image-article/apod-2026-november-5-enceladus-in-silhouette/
-🏷️ Tags: astronomy
-📝 Preview: APOD Science APOD APOD: 2026 November 5 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating univers...
-----------------------------------------
+- NASA Astronauts to Answer Questions from Florida Students
+  Link: https://www.nasa.gov/learning-resources/nasa-astronauts-to-answer-questions-from-florida-students-2/
 
+- APOD: 2026 November 5 – Enceladus in Silhouette
+  Link: https://science.nasa.gov/image-article/apod-2026-november-5-enceladus-in-silhouette/
 
-=== SpaceNews ===
-No news matched your target keywords today.
+- NASA Announces X-70 Experimental Aircraft to Advance Flight Research
+  Link: https://www.nasa.gov/news-release/nasa-announces-x-70-experimental-aircraft-to-advance-flight-research/
 
+- NASA Shares Plans to Accelerate Artemis, Return to Moon
+  Link: https://www.nasa.gov/missions/artemis/nasa-shares-plans-to-accelerate-artemis-return-to-moon/
 
+- NASA Announces Ka-Band Satellite Relay Awards for Space Communications
+  Link: https://www.nasa.gov/news-release/nasa-announces-ka-band-satellite-relay-awards-for-space-communications/
+
+=== Space News ===
+- CesiumAstro Secures $730 Million in Janus Henderson-Led Series D at a Valuation Above $4.5 Billion; Unveils Synchronicity Satellite Constellation Following Fully Successful Element-1 Mission
+  Link: https://spacenews.com/cesiumastro-secures-730-million-in-janus-henderson-led-series-d-at-a-valuation-above-4-5-billion-unveils-synchronicity-satellite-constellation-following-fully-successful-element-1-mission/
+
+- Cork Takes the Heat So DRACO’s Data Can Survive
+  Link: https://spacenews.com/cork-takes-the-heat-so-dracos-data-can-survive/
+
+- Building a ‘highway to the moon and back’ with Winnie Lai
+  Link: https://spacenews.com/building-a-highway-to-the-moon-and-back-with-winnie-lai/
+
+- Simera Sense and Spacemanic to Collaborate on a New Complete Dual-Use Mission Solution
+  Link: https://spacenews.com/simera-sense-and-spacemanic-to-collaborate-on-a-new-complete-dual-use-mission-solution/
+
+- DETUMBLER: Airbus’ Passive Spin Stabilization Solution
+  Link: https://spacenews.com/detumbler-airbus-passive-spin-stabilization-solution/
+
+- How to Expand Reliable, Flexible Access to Space
+  Link: https://spacenews.com/how-to-expand-reliable-flexible-access-to-space/
+
+- ESI supplying solar array components to missile defense programs
+  Link: https://spacenews.com/esi-supplying-solar-array-components-to-missile-defense-programs/
+
+- Advice for optimizing the space industry with Laura Crabtree
+  Link: https://spacenews.com/advice-for-optimizing-the-space-industry-with-laura-crabtree/
+
+- Flexell Space and Satoro Agree to Collaborate on In-Orbit Demonstration of Next-Generation Space Solar Cells
+  Link: https://spacenews.com/flexell-space-and-satoro-agree-to-collaborate-on-in-orbit-demonstration-of-next-generation-space-solar-cells/
+
+- Ukrainian startup, GomSpace test satellite for future communications network
+  Link: https://spacenews.com/ukrainian-startup-gomspace-test-satellite-for-future-communications-network/
 
 === Universe Today ===
+- Asteroids' Oddball Shapes Make Deflecting Them Challenging
+  Link: https://www.universetoday.com/articles/asteroids-oddball-shapes-make-deflecting-them-challenging
 
-📍 Title: Interstellar Visitor 3I/ATLAS Shows Water Ice Behaves the Same Across Alien Star Systems
-🔗 Link: https://www.universetoday.com/articles/interstellar-visitor-3iatlas-shows-water-ice-behaves-the-same-across-alien-star-systems
-🏷️ Tags: astronomy
-📝 Preview: Targets of opportunity sometimes happen in astronomy, and we got a major one when the third interstellar object, 3I/ATLAS, was discovered in July 2025. And it just so happens that in the intervening years between the last known interstellar visitor (...
-----------------------------------------
+- A Mighty Wind Blew Away Gas and Made Early Galaxies Brighter
+  Link: https://www.universetoday.com/articles/a-mighty-wind-blew-away-gas-and-made-early-galaxies-brighter
 
-📍 Title: Exoplanets Can't Hide From The JWST's 'Digital Twin'
-🔗 Link: https://www.universetoday.com/articles/exoplanets-cant-hide-from-the-jwsts-digital-twin
-🏷️ Tags: astronomy, exoplanet
-📝 Preview: Finding dim exoplanets hidden in the glare of their stars is an ongoing challenge in astronomy. Telescopes use coronagraphs to block out starlight, but even they have their limitations. Researchers have developed a new technique with the JWST that ca...
-----------------------------------------
+- Interstellar Visitor 3I/ATLAS Shows Water Ice Behaves the Same Across Alien Star Systems
+  Link: https://www.universetoday.com/articles/interstellar-visitor-3iatlas-shows-water-ice-behaves-the-same-across-alien-star-systems
 
-📍 Title: A Virtual Lifeless Earth Will Help Scientists Find Life on Exoplanets
-🔗 Link: https://www.universetoday.com/articles/a-virtual-lifeless-earth-will-help-scientists-find-life-on-exoplanets
-🏷️ Tags: exoplanet
-📝 Preview: Researchers have created a model lifeless Earth that couples the atmosphere with interior planetary processes. The model can reproduce Earth's modern habitable state without including life, showing that a planet that appears habitable isn't necessari...
-----------------------------------------
+- Exoplanets Can't Hide From The JWST's 'Digital Twin'
+  Link: https://www.universetoday.com/articles/exoplanets-cant-hide-from-the-jwsts-digital-twin
 
+- China Unveils Their Plan for a Crewed Moon Landing
+  Link: https://www.universetoday.com/articles/china-unveils-their-plan-for-a-crewed-moon-landing
+
+- Game Theory Helps SETI Search for Alien Civilizations
+  Link: https://www.universetoday.com/articles/game-theory-helps-seti-search-for-alien-civilizations
+
+- Giant Impacts Help Rocky Planets Retain Their Atmospheres
+  Link: https://www.universetoday.com/articles/giant-impacts-help-rocky-planets-retain-their-atmospheres
+
+- A Virtual Lifeless Earth Will Help Scientists Find Life on Exoplanets
+  Link: https://www.universetoday.com/articles/a-virtual-lifeless-earth-will-help-scientists-find-life-on-exoplanets
 
 === ESA Top News ===
-Error fetching source ESA Top News: HTTP Error 404: Not Found
-
-
+No entries found or failed to parse feed.
 
 === Phys.org Archaeology ===
-Error fetching source Phys.org Archaeology: HTTP Error 404: Not Found
-
-
+No matching news found for today based on keywords.
