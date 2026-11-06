@@ -1,81 +1,60 @@
-import os
-import re
-import xml.etree.ElementTree as ET
-import urllib.request
-from datetime import datetime, timezone
+import feedparser
+from datetime import datetime
 
-# Science RSS Sources
-SOURCES = {
-    "NASA News": "https://www.nasa.gov/news-release/feed/",
-    "SpaceNews": "https://spacenews.com/feed/",
+# Список RSS-источников с актуальными и рабочими ссылками
+RSS_SOURCES = {
+    "NASA News": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+    "Space News": "https://spacenews.com/feed/",
     "Universe Today": "https://www.universetoday.com/feed/",
     "ESA Top News": "https://www.esa.int/rssfeed/Our_Activities/Space_News",
-    "Phys.org Archaeology": "https://phys.org/rss-feed/archaeology-news/"
+    "Phys.org Archaeology": "https://phys.org/rss-feed/science-news/archaeology-fossils/"
 }
 
-# Target Keywords (case-insensitive search)
-KEYWORDS = ["astronomy", "exoplanet", "uap", "ufo", "archeology", "archaeology", "discovery", "hypothesis"]
+# Ключевые слова для фильтрации новостей
+KEYWORDS = [
+    "astronomy", "space", "uap", "archaeology", "exoplanet", 
+    "mars", "nasa", "esa", "telescope", "asteroid", "comet"
+]
 
-def clean_html(text):
-    """Strip HTML tags and normalize whitespace."""
-    if not text:
-        return ""
-    cleaner = re.compile('<.*?>')
-    return re.sub(cleaner, '', text).strip()
+def parse_news():
+    report_lines = []
+    report_lines.append(f"=== DAILY SCIENCE NEWS REPORT ===")
+    report_lines.append(f"Generated on: {datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S')} UTC\n")
 
-def fetch_and_filter():
-    report = []
-    total_found = 0
-    headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'}
-
-    for name, url in SOURCES.items():
-        report.append(f"=== {name} ===")
-        found_in_source = 0
+    for source_name, url in RSS_SOURCES.items():
+        report_lines.append(f"=== {source_name} ===")
         try:
-            req = urllib.request.Request(url, headers=headers)
-            with urllib.request.urlopen(req, timeout=10) as response:
-                xml_data = response.read()
+            feed = feedparser.parse(url)
+            
+            # Проверяем, удалось ли загрузить ленту и есть ли в ней записи
+            if not feed.entries:
+                report_lines.append(f"No entries found or failed to parse feed.\n")
+                continue
 
-            root = ET.fromstring(xml_data)
-            items = root.findall('.//item')
+            count = 0
+            for entry in feed.entries[:10]:  генерация по топ-10 записей из ленты
+                title = entry.get('title', '')
+                summary = entry.get('summary', entry.get('description', ''))
+                link = entry.get('link', '')
 
-            for item in items:
-                title = item.findtext('title', default='').strip()
-                link = item.findtext('link', default='').strip()
-                description = clean_html(item.findtext('description', default=''))
+                # Проверяем на наличие ключевых слов (регистронезависимо)
+                text_to_check = (title + " " + summary).lower()
+                if any(kw in text_to_check for kw in KEYWORDS):
+                    report_lines.append(f"- {title}")
+                    report_lines.append(f"  Link: {link}\n")
+                    count += 1
 
-                # Search keywords in title + description
-                combined_text = f"{title} {description}".lower()
-                matched_keywords = [kw for kw in KEYWORDS if kw in combined_text]
-
-                if matched_keywords:
-                    found_in_source += 1
-                    total_found += 1
-                    # Truncate summary to 250 characters
-                    short_desc = (description[:250] + '...') if len(description) > 250 else description
-                    report.append(
-                        f"\n📍 Title: {title}\n"
-                        f"🔗 Link: {link}\n"
-                        f"🏷️ Tags: {', '.join(matched_keywords)}\n"
-                        f"📝 Preview: {short_desc}\n"
-                        f"{'-'*40}"
-                    )
-
-            if found_in_source == 0:
-                report.append("No news matched your target keywords today.\n")
+            if count == 0:
+                report_lines.append("No matching news found for today based on keywords.\n")
 
         except Exception as e:
-            report.append(f"Error fetching source {name}: {e}\n")
-        
-        report.append("\n")
+            report_lines.append(f"Error fetching source {source_name}: {str(e)}\n")
 
-    timestamp = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
-    header = f"📊 Science News Report — {timestamp} ({total_found} items found)\n" + "="*60 + "\n\n"
-    final_text = header + "\n".join(report)
-
+    # Сохраняем результат в файл news_report.txt
     with open("news_report.txt", "w", encoding="utf-8") as f:
-        f.write(final_text)
+        f.write("\n".join(report_lines))
+
+    print("News report successfully generated and saved to news_report.txt")
 
 if __name__ == "__main__":
-    fetch_and_filter()
-  
+    parse_news()
