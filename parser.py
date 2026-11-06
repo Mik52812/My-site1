@@ -1,12 +1,12 @@
 import feedparser
 from datetime import datetime
 
-# Список RSS-источников с актуальными и рабочими ссылками
+# Список RSS-источников с исправленной и стабильной ссылкой на ESA
 RSS_SOURCES = {
     "NASA News": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
     "Space News": "https://spacenews.com/feed/",
     "Universe Today": "https://www.universetoday.com/feed/",
-    "ESA Top News": "https://www.esa.int/rssfeed/Our_Activities/Space_News",
+    "ESA Top News": "https://www.esa.int/rssfeed/TopNews",
     "Phys.org Archaeology": "https://phys.org/rss-feed/science-news/archaeology-fossils/"
 }
 
