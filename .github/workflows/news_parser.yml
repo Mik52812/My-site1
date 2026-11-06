@@ -1,0 +1,36 @@
+name: Daily Science News Parser
+
+on:
+  schedule:
+    - cron: '0 8 * * *' # Runs daily at 08:00 UTC
+  workflow_dispatch:      # Allows manual trigger from the UI
+
+jobs:
+  build-and-send:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.x'
+
+    - name: Run parser script
+      run: python parser.py
+
+    - name: Send email report
+      uses: dawidd6/action-send-mail@v3
+      with:
+        server_address: ${{ secrets.MAIL_SERVER }}
+        server_port: ${{ secrets.MAIL_PORT }}
+        username: ${{ secrets.MAIL_USERNAME }}
+        password: ${{ secrets.MAIL_PASSWORD }}
+        subject: "📡 Science News Daily Brief (Astronomy, UAP, Archaeology)"
+        to: ${{ secrets.TO_EMAIL }}
+        from: "Science Parser <${{ secrets.MAIL_USERNAME }}>"
+        body: file://news_report.txt
+        convert_markdown: true
+        
