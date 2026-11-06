@@ -32,7 +32,8 @@ def parse_news():
                 continue
 
             count = 0
-            for entry in feed.entries[:10]:  генерация по топ-10 записей из ленты
+            # Обрабатываем топ-10 записей из ленты
+            for entry in feed.entries[:10]:
                 title = entry.get('title', '')
                 summary = entry.get('summary', entry.get('description', ''))
                 link = entry.get('link', '')
