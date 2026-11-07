@@ -1,7 +1,16 @@
 === DAILY SCIENCE NEWS REPORT ===
-Generated on: 2026-11-06 12:24:17 UTC
+Generated on: 2026-11-07 14:29:52 UTC
 
 === NASA News ===
+- APOD: 2026 November 7 – De Gerlache-Kocher Massif
+  Link: https://science.nasa.gov/image-article/apod-2026-november-7-de-gerlache-kocher-massif/
+
+- M30’s Sparkling Stars
+  Link: https://www.nasa.gov/image-article/m30s-sparkling-stars/
+
+- Supercomputing Tech Demo Schedule
+  Link: https://science.nasa.gov/earth/supercomputing-tech-demo-schedule/
+
 - APOD: 2026 November 6 – A Farewell to Swift
   Link: https://science.nasa.gov/image-article/apod-2026-november-6-a-farewell-to-swift/
 
@@ -13,15 +22,6 @@ Generated on: 2026-11-06 12:24:17 UTC
 
 - APOD: 2026 November 5 – Enceladus in Silhouette
   Link: https://science.nasa.gov/image-article/apod-2026-november-5-enceladus-in-silhouette/
-
-- NASA Announces X-70 Experimental Aircraft to Advance Flight Research
-  Link: https://www.nasa.gov/news-release/nasa-announces-x-70-experimental-aircraft-to-advance-flight-research/
-
-- NASA Shares Plans to Accelerate Artemis, Return to Moon
-  Link: https://www.nasa.gov/missions/artemis/nasa-shares-plans-to-accelerate-artemis-return-to-moon/
-
-- NASA Announces Ka-Band Satellite Relay Awards for Space Communications
-  Link: https://www.nasa.gov/news-release/nasa-announces-ka-band-satellite-relay-awards-for-space-communications/
 
 === Space News ===
 - CesiumAstro Secures $730 Million in Janus Henderson-Led Series D at a Valuation Above $4.5 Billion; Unveils Synchronicity Satellite Constellation Following Fully Successful Element-1 Mission
@@ -55,6 +55,21 @@ Generated on: 2026-11-06 12:24:17 UTC
   Link: https://spacenews.com/ukrainian-startup-gomspace-test-satellite-for-future-communications-network/
 
 === Universe Today ===
+- Our Sun’s Undiscovered Stellar Nemesis Is Still Out There, Says Physicist
+  Link: https://www.universetoday.com/articles/our-suns-undiscovered-stellar-nemesis-is-still-out-there-says-physicist
+
+- The ELT Can Probe Ultra-Diffuse Galaxies and Their Dark Matter Mysteries
+  Link: https://www.universetoday.com/articles/the-elt-can-probe-ultra-diffuse-galaxies-and-their-dark-matter-mysteries
+
+- NASA's Twin Spacecraft Will Execute Powered Slingshot Maneuvers on Their Way to Mars
+  Link: https://www.universetoday.com/articles/nasas-twin-spacecraft-will-execute-powered-slingshot-maneuvers-on-their-way-to-mars
+
+- Earth's Gravity May Have Kept the Early Moon's Volcanic Heart Beating
+  Link: https://www.universetoday.com/articles/earths-gravity-may-have-kept-the-early-moons-volcanic-heart-beating
+
+- 'Big Bang' Fix Puts Voyager Across the 'One Light-Day' Mark
+  Link: https://www.universetoday.com/articles/big-bang-fix-puts-voyager-across-the-one-light-day-mark
+
 - Asteroids' Oddball Shapes Make Deflecting Them Challenging
   Link: https://www.universetoday.com/articles/asteroids-oddball-shapes-make-deflecting-them-challenging
 
@@ -70,17 +85,37 @@ Generated on: 2026-11-06 12:24:17 UTC
 - China Unveils Their Plan for a Crewed Moon Landing
   Link: https://www.universetoday.com/articles/china-unveils-their-plan-for-a-crewed-moon-landing
 
-- Game Theory Helps SETI Search for Alien Civilizations
-  Link: https://www.universetoday.com/articles/game-theory-helps-seti-search-for-alien-civilizations
-
-- Giant Impacts Help Rocky Planets Retain Their Atmospheres
-  Link: https://www.universetoday.com/articles/giant-impacts-help-rocky-planets-retain-their-atmospheres
-
-- A Virtual Lifeless Earth Will Help Scientists Find Life on Exoplanets
-  Link: https://www.universetoday.com/articles/a-virtual-lifeless-earth-will-help-scientists-find-life-on-exoplanets
-
 === ESA Top News ===
-No entries found or failed to parse feed.
+- European orbiter detects hints of volcanic activity on Mars
+  Link: https://www.esa.int/articles/news-media/news/european-orbiter-detects-hints-of-volcanic-activity-on-mars
+
+- Key outcomes of the 350th ESA Council meeting
+  Link: https://www.esa.int/articles/news-media/news/key-outcomes-of-the-350th-esa-council-meeting
+
+- Euclid discovers new comet
+  Link: https://www.esa.int/articles/about-us/directorates/science/euclid/euclid-discovers-new-comet
+
+- A call to boost European space exploration
+  Link: https://www.esa.int/articles/news-media/news/a-call-to-boost-european-space-exploration
+
+- ESA brings public and private capital together to accelerate Europe’s space economy
+  Link: https://www.esa.int/articles/business/business-with-esa/esa-brings-public-and-private-capital-together-to-accelerate-europe-s-space-economy
+
+- ESA and ISRO extend and broaden cooperation agreement
+  Link: https://www.esa.int/articles/news-media/esa-and-isro-extend-and-broaden-cooperation-agreement
+
+- Webb reveals stunning panorama of star formation
+  Link: https://www.esa.int/articles/about-us/directorates/science/webb/webb-reveals-stunning-panorama-of-star-formation
+
+- Europe&#039;s space future in focus at the International Space Summit
+  Link: https://www.esa.int/articles/news-media/news/europe-s-space-future-in-focus-at-the-international-space-summit
+
+- First contracts kick off European Launcher Challenge
+  Link: https://www.esa.int/articles/about-us/directorates/space-transportation/first-contracts-kick-off-european-launcher-challenge
+
+- ESA statement on the wildfires near Cebreros
+  Link: https://www.esa.int/articles/news-media/news/esa-statement-on-the-wildfires-near-cebreros
 
 === Phys.org Archaeology ===
-No matching news found for today based on keywords.
+- AI won't ever make a historically accurate film—but it could help archaeology create better stories
+  Link: https://phys.org/news/2026-11-ai-wont-historically-accurate-archaeology.html
