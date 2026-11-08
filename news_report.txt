@@ -1,7 +1,16 @@
 === DAILY SCIENCE NEWS REPORT ===
-Generated on: 2026-11-07 14:29:52 UTC
+Generated on: 2026-11-08 14:38:07 UTC
 
 === NASA News ===
+- APOD: 2026 November 8 – Major Fireball Meteor
+  Link: https://science.nasa.gov/image-article/apod-2026-november-8-major-fireball-meteor/
+
+- NASA Awards Moon Base Transportation, Technology, Science Projects
+  Link: https://www.nasa.gov/news-release/nasa-awards-moon-base-transportation-technology-science-projects/
+
+- NASA Seeks Next Generation of Explorers to Join Astronaut Corps
+  Link: https://www.nasa.gov/news-release/nasa-seeks-next-generation-of-explorers-to-join-astronaut-corps/
+
 - APOD: 2026 November 7 – De Gerlache-Kocher Massif
   Link: https://science.nasa.gov/image-article/apod-2026-november-7-de-gerlache-kocher-massif/
 
@@ -19,9 +28,6 @@ Generated on: 2026-11-07 14:29:52 UTC
 
 - NASA Astronauts to Answer Questions from Florida Students
   Link: https://www.nasa.gov/learning-resources/nasa-astronauts-to-answer-questions-from-florida-students-2/
-
-- APOD: 2026 November 5 – Enceladus in Silhouette
-  Link: https://science.nasa.gov/image-article/apod-2026-november-5-enceladus-in-silhouette/
 
 === Space News ===
 - CesiumAstro Secures $730 Million in Janus Henderson-Led Series D at a Valuation Above $4.5 Billion; Unveils Synchronicity Satellite Constellation Following Fully Successful Element-1 Mission
