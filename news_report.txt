@@ -1,7 +1,25 @@
 === DAILY SCIENCE NEWS REPORT ===
-Generated on: 2026-11-08 14:38:07 UTC
+Generated on: 2026-11-09 17:56:30 UTC
 
 === NASA News ===
+- Astronauts Across Generations Share the Stage
+  Link: https://www.nasa.gov/image-article/astronauts-across-generations-share-the-stage/
+
+- MAX POWER: NASA’s Inaugural Aerospace Expo Ignites America’s Future
+  Link: https://www.nasa.gov/general/max-power-nasas-inaugural-aerospace-expo-ignites-americas-future/
+
+- NASA’s ESCAPADE Completes Powered Earth Flybys, Now En Route to Mars
+  Link: https://science.nasa.gov/science-research/heliophysics/nasas-escapade-completes-powered-earth-flybys-now-en-route-to-mars/
+
+- CHAPEA Mission 2 Crew Reflects After 378 Days on Simulated Mars
+  Link: https://www.nasa.gov/centers-and-facilities/johnson/chapea-mission-2-crew-reflects-after-378-days-on-simulated-mars/
+
+- APOD: 2026 November 9 – Rigel and the Witch Head Nebula
+  Link: https://science.nasa.gov/image-article/apod-2026-november-9-rigel-and-the-witch-head-nebula/
+
+- NASA Announces $1 Million to Students for Moon Base Challenge
+  Link: https://www.nasa.gov/news-release/nasa-announces-1-million-to-students-for-moon-base-challenge/
+
 - APOD: 2026 November 8 – Major Fireball Meteor
   Link: https://science.nasa.gov/image-article/apod-2026-november-8-major-fireball-meteor/
 
@@ -11,25 +29,10 @@ Generated on: 2026-11-08 14:38:07 UTC
 - NASA Seeks Next Generation of Explorers to Join Astronaut Corps
   Link: https://www.nasa.gov/news-release/nasa-seeks-next-generation-of-explorers-to-join-astronaut-corps/
 
-- APOD: 2026 November 7 – De Gerlache-Kocher Massif
-  Link: https://science.nasa.gov/image-article/apod-2026-november-7-de-gerlache-kocher-massif/
-
-- M30’s Sparkling Stars
-  Link: https://www.nasa.gov/image-article/m30s-sparkling-stars/
-
-- Supercomputing Tech Demo Schedule
-  Link: https://science.nasa.gov/earth/supercomputing-tech-demo-schedule/
-
-- APOD: 2026 November 6 – A Farewell to Swift
-  Link: https://science.nasa.gov/image-article/apod-2026-november-6-a-farewell-to-swift/
-
-- Midwestern City Lights
-  Link: https://www.nasa.gov/image-article/midwestern-city-lights/
-
-- NASA Astronauts to Answer Questions from Florida Students
-  Link: https://www.nasa.gov/learning-resources/nasa-astronauts-to-answer-questions-from-florida-students-2/
-
 === Space News ===
+- CCIA Report Highlights Satellite Connectivity’s Potential to Expand Internet Access and Drive Economic Growth
+  Link: https://spacenews.com/ccia-report-highlights-satellite-connectivitys-potential-to-expand-internet-access-and-drive-economic-growth/
+
 - CesiumAstro Secures $730 Million in Janus Henderson-Led Series D at a Valuation Above $4.5 Billion; Unveils Synchronicity Satellite Constellation Following Fully Successful Element-1 Mission
   Link: https://spacenews.com/cesiumastro-secures-730-million-in-janus-henderson-led-series-d-at-a-valuation-above-4-5-billion-unveils-synchronicity-satellite-constellation-following-fully-successful-element-1-mission/
 
@@ -57,10 +60,10 @@ Generated on: 2026-11-08 14:38:07 UTC
 - Flexell Space and Satoro Agree to Collaborate on In-Orbit Demonstration of Next-Generation Space Solar Cells
   Link: https://spacenews.com/flexell-space-and-satoro-agree-to-collaborate-on-in-orbit-demonstration-of-next-generation-space-solar-cells/
 
-- Ukrainian startup, GomSpace test satellite for future communications network
-  Link: https://spacenews.com/ukrainian-startup-gomspace-test-satellite-for-future-communications-network/
-
 === Universe Today ===
+- Nearby Dwarf Galaxies Show Surprising Lack Of Oxygen, Says Paper
+  Link: https://www.universetoday.com/articles/nearby-dwarf-galaxies-show-surprising-lack-of-oxygen-says-paper
+
 - Our Sun’s Undiscovered Stellar Nemesis Is Still Out There, Says Physicist
   Link: https://www.universetoday.com/articles/our-suns-undiscovered-stellar-nemesis-is-still-out-there-says-physicist
 
@@ -82,18 +85,9 @@ Generated on: 2026-11-08 14:38:07 UTC
 - A Mighty Wind Blew Away Gas and Made Early Galaxies Brighter
   Link: https://www.universetoday.com/articles/a-mighty-wind-blew-away-gas-and-made-early-galaxies-brighter
 
-- Interstellar Visitor 3I/ATLAS Shows Water Ice Behaves the Same Across Alien Star Systems
-  Link: https://www.universetoday.com/articles/interstellar-visitor-3iatlas-shows-water-ice-behaves-the-same-across-alien-star-systems
-
-- Exoplanets Can't Hide From The JWST's 'Digital Twin'
-  Link: https://www.universetoday.com/articles/exoplanets-cant-hide-from-the-jwsts-digital-twin
-
-- China Unveils Their Plan for a Crewed Moon Landing
-  Link: https://www.universetoday.com/articles/china-unveils-their-plan-for-a-crewed-moon-landing
-
 === ESA Top News ===
 - European orbiter detects hints of volcanic activity on Mars
-  Link: https://www.esa.int/articles/news-media/news/european-orbiter-detects-hints-of-volcanic-activity-on-mars
+  Link: 
 
 - Key outcomes of the 350th ESA Council meeting
   Link: https://www.esa.int/articles/news-media/news/key-outcomes-of-the-350th-esa-council-meeting
