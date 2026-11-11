@@ -1,7 +1,19 @@
 === DAILY SCIENCE NEWS REPORT ===
-Generated on: 2026-11-10 15:55:16 UTC
+Generated on: 2026-11-11 15:41:46 UTC
 
 === NASA News ===
+- APOD: 2026 November 11 – NGC 4449: Small Galaxy, Big Impact
+  Link: https://science.nasa.gov/image-article/apod-2026-november-11-ngc-4449-small-galaxy-big-impact/
+
+- NASA Invites Media, Public to Join Voyager 1 One-Light Day Activities
+  Link: https://www.nasa.gov/news-release/nasa-invites-media-public-to-join-voyager-1-one-light-day-activities/
+
+- NASA to Welcome Expedition 74 Astronauts Home at Space Center Houston
+  Link: https://www.nasa.gov/news-release/nasa-to-welcome-expedition-74-astronauts-home-at-space-center-houston/
+
+- NASA Scientists Show How Gravitational Waves Can Reveal New Worlds
+  Link: https://science.nasa.gov/missions/lisa/gravitational-waves-can-reveal-new-worlds/
+
 - CHAPEA Crew Leaves a Mark
   Link: https://www.nasa.gov/image-article/chapea-crew-leaves-a-mark/
 
@@ -11,19 +23,10 @@ Generated on: 2026-11-10 15:55:16 UTC
 - Curiosity Blog, Sols 5056-5062: Charging Back Up!
   Link: https://science.nasa.gov/blog/curiosity-blog-sols-5056-5062-charging-back-up/
 
-- Rubies on Mars?
-  Link: https://science.nasa.gov/blog/rubies-on-mars/
-
-- La NASA busca a la próxima generación de astronautas
-  Link: https://www.nasa.gov/news-release/la-nasa-busca-a-la-proxima-generacion-de-astronautas/
-
-- NASA’s Chandra Finds Source of Star’s Mysterious Outbursts
-  Link: https://science.nasa.gov/missions/chandra/nasas-chandra-finds-source-of-stars-mysterious-outbursts/
-
-- NASA Advanced Mid-Power Electric Rocket Challenge
-  Link: https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-advanced-mid-power-electric-rocket-challenge/
-
 === Space News ===
+- Horizon Microtechnologies Targets Constellation-Scale Production As Esa Phi-Lab Selection Strengthens Industrialisation Push
+  Link: https://spacenews.com/horizon-microtechnologies-targets-constellation-scale-production-as-esa-phi-lab-selection-strengthens-industrialisation-push/
+
 - Kratos and Seagate Space Partner to Advance Mobile Offshore Launch Capabilities for National Security Missions
   Link: https://spacenews.com/kratos-and-seagate-space-partner-to-advance-mobile-offshore-launch-capabilities-for-national-security-missions/
 
@@ -51,10 +54,19 @@ Generated on: 2026-11-10 15:55:16 UTC
 - How to Expand Reliable, Flexible Access to Space
   Link: https://spacenews.com/how-to-expand-reliable-flexible-access-to-space/
 
-- ESI supplying solar array components to missile defense programs
-  Link: https://spacenews.com/esi-supplying-solar-array-components-to-missile-defense-programs/
-
 === Universe Today ===
+- Planets Don't Just Disappear, But They Can Wobble Out of Sight if Their Neighbour is Close Enough
+  Link: https://www.universetoday.com/articles/planets-dont-just-disappear-but-they-can-wobble-out-of-sight-if-their-neighbour-is-close-enough
+
+- Automated Assembly in Space is the Future and NOM4D is Showing the Way
+  Link: https://www.universetoday.com/articles/automated-assembly-in-space-is-the-future-and-nom4d-is-showing-the-way
+
+- ALMA Reveals a Jet of Cool Gas from a Microquasar
+  Link: https://www.universetoday.com/articles/alma-reveals-a-jet-of-cool-gas-from-a-microquasar
+
+- Why Aging Stars Suffer A Sudden Luminosity Dip
+  Link: https://www.universetoday.com/articles/why-aging-stars-suffer-a-sudden-luminosity-dip
+
 - Using Vibrations and AI, Future Robotic Missions Could Handle Buried Rocks Autonomously
   Link: https://www.universetoday.com/articles/virginia-tech-researchers-use-vibrations-and-ai-to-estimate-depth-of-buried-objects-for-future-lunar
 
@@ -66,15 +78,6 @@ Generated on: 2026-11-10 15:55:16 UTC
 
 - An Artificial CORTEX to Guide Satellite Rescue Missions
   Link: https://www.universetoday.com/articles/an-artificial-cortex-to-guide-satellite-rescue-missions
-
-- Nearby Dwarf Galaxies Show Surprising Lack Of Oxygen, Says Paper
-  Link: https://www.universetoday.com/articles/nearby-dwarf-galaxies-show-surprising-lack-of-oxygen-says-paper
-
-- Our Sun’s Undiscovered Stellar Nemesis Is Still Out There, Says Physicist
-  Link: https://www.universetoday.com/articles/our-suns-undiscovered-stellar-nemesis-is-still-out-there-says-physicist
-
-- The ELT Can Probe Ultra-Diffuse Galaxies and Their Dark Matter Mysteries
-  Link: https://www.universetoday.com/articles/the-elt-can-probe-ultra-diffuse-galaxies-and-their-dark-matter-mysteries
 
 === ESA Top News ===
 - European orbiter detects hints of volcanic activity on Mars
