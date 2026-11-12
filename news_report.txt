@@ -1,7 +1,19 @@
 === DAILY SCIENCE NEWS REPORT ===
-Generated on: 2026-11-11 15:41:46 UTC
+Generated on: 2026-11-12 16:26:22 UTC
 
 === NASA News ===
+- NASA’s Hubble Offers Cosmic Sampler of Targets for Roman
+  Link: https://science.nasa.gov/missions/hubble/nasas-hubble-offers-cosmic-sampler-of-targets-for-roman/
+
+- Through NASA’s Lens: Capturing Space Shuttle Endeavour’s Move to LA
+  Link: https://www.nasa.gov/centers-and-facilities/armstrong/through-nasas-lens-capturing-space-shuttle-endeavours-move-to-la/
+
+- APOD: 2026 November 12 – Moon, Venus and Spica Meet
+  Link: https://science.nasa.gov/image-article/apod-2026-november-12-moon-venus-and-spica-meet/
+
+- Curiosity Blog, Sols 5063-5069 Rocks and Chips
+  Link: https://science.nasa.gov/blog/curiosity-blog-sols-5063-5069-rocks-and-chips/
+
 - APOD: 2026 November 11 – NGC 4449: Small Galaxy, Big Impact
   Link: https://science.nasa.gov/image-article/apod-2026-november-11-ngc-4449-small-galaxy-big-impact/
 
@@ -14,16 +26,13 @@ Generated on: 2026-11-11 15:41:46 UTC
 - NASA Scientists Show How Gravitational Waves Can Reveal New Worlds
   Link: https://science.nasa.gov/missions/lisa/gravitational-waves-can-reveal-new-worlds/
 
-- CHAPEA Crew Leaves a Mark
-  Link: https://www.nasa.gov/image-article/chapea-crew-leaves-a-mark/
-
-- APOD: 2026 November 10 – Saturn Behind the Moon
-  Link: https://science.nasa.gov/image-article/apod-2026-november-10-saturn-behind-the-moon/
-
-- Curiosity Blog, Sols 5056-5062: Charging Back Up!
-  Link: https://science.nasa.gov/blog/curiosity-blog-sols-5056-5062-charging-back-up/
-
 === Space News ===
+- Senate committee takes up nominees for NASA chief financial officer and inspector general
+  Link: https://spacenews.com/senate-committee-takes-up-nominees-for-nasa-chief-financial-officer-and-inspector-general/
+
+- Moog Marks 25 Years Since ESPA Design Milestone: Innovating Space Rideshare
+  Link: https://spacenews.com/moog-marks-25-years-since-espa-design-milestone-innovating-space-rideshare/
+
 - Horizon Microtechnologies Targets Constellation-Scale Production As Esa Phi-Lab Selection Strengthens Industrialisation Push
   Link: https://spacenews.com/horizon-microtechnologies-targets-constellation-scale-production-as-esa-phi-lab-selection-strengthens-industrialisation-push/
 
@@ -48,13 +57,16 @@ Generated on: 2026-11-11 15:41:46 UTC
 - Simera Sense and Spacemanic to Collaborate on a New Complete Dual-Use Mission Solution
   Link: https://spacenews.com/simera-sense-and-spacemanic-to-collaborate-on-a-new-complete-dual-use-mission-solution/
 
-- DETUMBLER: Airbus’ Passive Spin Stabilization Solution
-  Link: https://spacenews.com/detumbler-airbus-passive-spin-stabilization-solution/
-
-- How to Expand Reliable, Flexible Access to Space
-  Link: https://spacenews.com/how-to-expand-reliable-flexible-access-to-space/
-
 === Universe Today ===
+- The Ice Giants' Magnetic Fields are Very Strange Compared to Earth's
+  Link: https://www.universetoday.com/articles/the-ice-giants-magnetic-fields-are-very-strange-compared-to-earths
+
+- Asteroid Mining Will Crash the Platinum Market, But That’s Good News for Earth
+  Link: https://www.universetoday.com/articles/asteroid-mining-will-crash-the-platinum-market-but-thats-good-news-for-earth
+
+- The Chandra X-Ray Observatory Unmasks a Supernova Impostor
+  Link: https://www.universetoday.com/articles/the-chandra-x-ray-observatory-unmasks-a-supernova-impostor
+
 - Planets Don't Just Disappear, But They Can Wobble Out of Sight if Their Neighbour is Close Enough
   Link: https://www.universetoday.com/articles/planets-dont-just-disappear-but-they-can-wobble-out-of-sight-if-their-neighbour-is-close-enough
 
@@ -70,16 +82,10 @@ Generated on: 2026-11-11 15:41:46 UTC
 - Using Vibrations and AI, Future Robotic Missions Could Handle Buried Rocks Autonomously
   Link: https://www.universetoday.com/articles/virginia-tech-researchers-use-vibrations-and-ai-to-estimate-depth-of-buried-objects-for-future-lunar
 
-- Mars' Molten Heart is Long Gone, but Some Magma Chambers May Persist
-  Link: https://www.universetoday.com/articles/mars-molten-heart-is-long-gone-but-some-magma-chambers-may-persist
-
-- A Perseverance Experiment Could Help Astronauts Prepare for Dust Storms on Mars
-  Link: https://www.universetoday.com/articles/a-perseverance-experiment-could-help-astronauts-prepare-for-dust-storms-on-mars
-
-- An Artificial CORTEX to Guide Satellite Rescue Missions
-  Link: https://www.universetoday.com/articles/an-artificial-cortex-to-guide-satellite-rescue-missions
-
 === ESA Top News ===
+- Hera spies a half-hidden asteroid moonlet
+  Link: https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/hera-spies-a-half-hidden-asteroid-moonlet
+
 - European orbiter detects hints of volcanic activity on Mars
   Link: https://www.esa.int/articles/news-media/news/european-orbiter-detects-hints-of-volcanic-activity-on-mars
 
@@ -107,9 +113,5 @@ Generated on: 2026-11-11 15:41:46 UTC
 - First contracts kick off European Launcher Challenge
   Link: https://www.esa.int/articles/about-us/directorates/space-transportation/first-contracts-kick-off-european-launcher-challenge
 
-- ESA statement on the wildfires near Cebreros
-  Link: https://www.esa.int/articles/news-media/news/esa-statement-on-the-wildfires-near-cebreros
-
 === Phys.org Archaeology ===
-- Cracking the case of the Roman frog graveyard
-  Link: https://phys.org/news/2026-11-case-roman-frog-graveyard.html
+No matching news found for today based on keywords.
