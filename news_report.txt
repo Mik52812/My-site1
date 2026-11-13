@@ -1,7 +1,19 @@
 === DAILY SCIENCE NEWS REPORT ===
-Generated on: 2026-11-12 16:26:22 UTC
+Generated on: 2026-11-13 15:46:54 UTC
 
 === NASA News ===
+- APOD: 2026 November 13 – NGC 206 and the Star Clouds of Andromeda
+  Link: https://science.nasa.gov/image-article/apod-2026-november-13-ngc-206-and-the-star-clouds-of-andromeda/
+
+- I Am Artemis Katie Spicer
+  Link: https://www.nasa.gov/missions/artemis/i-am-artemis-katie-spicer/
+
+- Heart in the Sky at NASA Kennedy
+  Link: https://www.nasa.gov/image-article/heart-in-the-sky-at-nasa-kennedy/
+
+- NASA Ames Stars of the Month: November 2026
+  Link: https://www.nasa.gov/general/nasa-ames-stars-of-the-month-november-2026/
+
 - NASA’s Hubble Offers Cosmic Sampler of Targets for Roman
   Link: https://science.nasa.gov/missions/hubble/nasas-hubble-offers-cosmic-sampler-of-targets-for-roman/
 
@@ -14,19 +26,16 @@ Generated on: 2026-11-12 16:26:22 UTC
 - Curiosity Blog, Sols 5063-5069 Rocks and Chips
   Link: https://science.nasa.gov/blog/curiosity-blog-sols-5063-5069-rocks-and-chips/
 
-- APOD: 2026 November 11 – NGC 4449: Small Galaxy, Big Impact
-  Link: https://science.nasa.gov/image-article/apod-2026-november-11-ngc-4449-small-galaxy-big-impact/
-
-- NASA Invites Media, Public to Join Voyager 1 One-Light Day Activities
-  Link: https://www.nasa.gov/news-release/nasa-invites-media-public-to-join-voyager-1-one-light-day-activities/
-
-- NASA to Welcome Expedition 74 Astronauts Home at Space Center Houston
-  Link: https://www.nasa.gov/news-release/nasa-to-welcome-expedition-74-astronauts-home-at-space-center-houston/
-
-- NASA Scientists Show How Gravitational Waves Can Reveal New Worlds
-  Link: https://science.nasa.gov/missions/lisa/gravitational-waves-can-reveal-new-worlds/
-
 === Space News ===
+- AST SpaceMobile presses case for developing own launch vehicle
+  Link: https://spacenews.com/ast-spacemobile-presses-case-for-developing-own-launch-vehicle/
+
+- UARX Space Marks a Milestone for Spain’s Space Industry with the Maiden Flight of OSSIE-D, Featuring a Complete Power Subsystem Supplied by DHV Technology
+  Link: https://spacenews.com/uarx-space-marks-a-milestone-for-spains-space-industry-with-the-maiden-flight-of-ossie-d-featuring-a-complete-power-subsystem-supplied-by-dhv-technology/
+
+- What role does industry play in Europe’s space sovereignty push?
+  Link: https://spacenews.com/what-role-does-industry-play-in-europes-space-sovereignty-push/
+
 - Senate committee takes up nominees for NASA chief financial officer and inspector general
   Link: https://spacenews.com/senate-committee-takes-up-nominees-for-nasa-chief-financial-officer-and-inspector-general/
 
@@ -48,16 +57,22 @@ Generated on: 2026-11-12 16:26:22 UTC
 - CesiumAstro Secures $730 Million in Janus Henderson-Led Series D at a Valuation Above $4.5 Billion; Unveils Synchronicity Satellite Constellation Following Fully Successful Element-1 Mission
   Link: https://spacenews.com/cesiumastro-secures-730-million-in-janus-henderson-led-series-d-at-a-valuation-above-4-5-billion-unveils-synchronicity-satellite-constellation-following-fully-successful-element-1-mission/
 
-- Cork Takes the Heat So DRACO’s Data Can Survive
-  Link: https://spacenews.com/cork-takes-the-heat-so-dracos-data-can-survive/
-
-- Building a ‘highway to the moon and back’ with Winnie Lai
-  Link: https://spacenews.com/building-a-highway-to-the-moon-and-back-with-winnie-lai/
-
-- Simera Sense and Spacemanic to Collaborate on a New Complete Dual-Use Mission Solution
-  Link: https://spacenews.com/simera-sense-and-spacemanic-to-collaborate-on-a-new-complete-dual-use-mission-solution/
-
 === Universe Today ===
+- Euclid's First Data Release: A Stepping Stone to its 3D Map of the Sky
+  Link: https://www.universetoday.com/articles/euclids-first-data-release-a-stepping-stone-to-its-3d-map-of-the-sky
+
+- A Brief-ish History of METI. Part III: The Legacy of Frank Drake &amp; Carl Sagan
+  Link: https://www.universetoday.com/articles/a-brief-ish-history-of-meti-part-iii-the-legacy-of-frank-drake-carl-sagan
+
+- Asteroid Bennu's Sample Delivers Another Surprise
+  Link: https://www.universetoday.com/articles/asteroid-bennus-sample-delivers-another-surprise
+
+- Solving the Space Junk Crisis Isn't Just About Counting Trash—It’s About Control and Economics
+  Link: https://www.universetoday.com/articles/solving-the-space-junk-crisis-isnt-just-about-counting-trashits-about-control-and-economics
+
+- Astrophysicists Want to Forecast When a Black Hole Launches Its Jets
+  Link: https://www.universetoday.com/articles/astrophysicists-want-to-forecast-when-a-black-hole-launches-its-jets
+
 - The Ice Giants' Magnetic Fields are Very Strange Compared to Earth's
   Link: https://www.universetoday.com/articles/the-ice-giants-magnetic-fields-are-very-strange-compared-to-earths
 
@@ -69,18 +84,6 @@ Generated on: 2026-11-12 16:26:22 UTC
 
 - Planets Don't Just Disappear, But They Can Wobble Out of Sight if Their Neighbour is Close Enough
   Link: https://www.universetoday.com/articles/planets-dont-just-disappear-but-they-can-wobble-out-of-sight-if-their-neighbour-is-close-enough
-
-- Automated Assembly in Space is the Future and NOM4D is Showing the Way
-  Link: https://www.universetoday.com/articles/automated-assembly-in-space-is-the-future-and-nom4d-is-showing-the-way
-
-- ALMA Reveals a Jet of Cool Gas from a Microquasar
-  Link: https://www.universetoday.com/articles/alma-reveals-a-jet-of-cool-gas-from-a-microquasar
-
-- Why Aging Stars Suffer A Sudden Luminosity Dip
-  Link: https://www.universetoday.com/articles/why-aging-stars-suffer-a-sudden-luminosity-dip
-
-- Using Vibrations and AI, Future Robotic Missions Could Handle Buried Rocks Autonomously
-  Link: https://www.universetoday.com/articles/virginia-tech-researchers-use-vibrations-and-ai-to-estimate-depth-of-buried-objects-for-future-lunar
 
 === ESA Top News ===
 - Hera spies a half-hidden asteroid moonlet
