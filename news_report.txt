@@ -1,7 +1,13 @@
 === DAILY SCIENCE NEWS REPORT ===
-Generated on: 2026-11-13 15:46:54 UTC
+Generated on: 2026-11-14 14:36:39 UTC
 
 === NASA News ===
+- Outbursts from a Massive Star
+  Link: https://www.nasa.gov/image-article/outbursts-from-a-massive-star/
+
+- Gemini Astronaut Photos Inspired Early Earth Observation Program
+  Link: https://www.nasa.gov/image-article/gemini-astronaut-photos-inspired-early-earth-observation-program/
+
 - APOD: 2026 November 13 – NGC 206 and the Star Clouds of Andromeda
   Link: https://science.nasa.gov/image-article/apod-2026-november-13-ngc-206-and-the-star-clouds-of-andromeda/
 
@@ -23,10 +29,10 @@ Generated on: 2026-11-13 15:46:54 UTC
 - APOD: 2026 November 12 – Moon, Venus and Spica Meet
   Link: https://science.nasa.gov/image-article/apod-2026-november-12-moon-venus-and-spica-meet/
 
-- Curiosity Blog, Sols 5063-5069 Rocks and Chips
-  Link: https://science.nasa.gov/blog/curiosity-blog-sols-5063-5069-rocks-and-chips/
-
 === Space News ===
+- Commercial Space Federation Welcomes CesiumAstro as a New Associate Member
+  Link: https://spacenews.com/commercial-space-federation-welcomes-cesiumastro-as-a-new-associate-member/
+
 - AST SpaceMobile presses case for developing own launch vehicle
   Link: https://spacenews.com/ast-spacemobile-presses-case-for-developing-own-launch-vehicle/
 
@@ -54,10 +60,22 @@ Generated on: 2026-11-13 15:46:54 UTC
 - CCIA Report Highlights Satellite Connectivity’s Potential to Expand Internet Access and Drive Economic Growth
   Link: https://spacenews.com/ccia-report-highlights-satellite-connectivitys-potential-to-expand-internet-access-and-drive-economic-growth/
 
-- CesiumAstro Secures $730 Million in Janus Henderson-Led Series D at a Valuation Above $4.5 Billion; Unveils Synchronicity Satellite Constellation Following Fully Successful Element-1 Mission
-  Link: https://spacenews.com/cesiumastro-secures-730-million-in-janus-henderson-led-series-d-at-a-valuation-above-4-5-billion-unveils-synchronicity-satellite-constellation-following-fully-successful-element-1-mission/
-
 === Universe Today ===
+- When Einstein's Gravitational Waves Meet Newton's Tides
+  Link: https://www.universetoday.com/articles/when-einsteins-gravitational-waves-meet-newtons-tides
+
+- Astrophysicists Cross Another Dark Matter Candidate Off Their List: Stupendously Large Black Holes
+  Link: https://www.universetoday.com/articles/astrophysicists-cross-another-dark-matter-candidate-off-their-list-stupendously-large-black-holes
+
+- SpaceX Launches Starship But Passes Up Booster Catch for Safety's Sake
+  Link: https://www.universetoday.com/articles/spacex-launches-starship-but-passes-up-booster-catch-for-safetys-sake
+
+- LOFAR Takes the Deepest Image of the Low-Frequency Radio Sky to Date
+  Link: https://www.universetoday.com/articles/lofar-takes-the-deepest-image-of-the-low-frequency-radio-sky-to-date
+
+- Shape-Shifting Robotic "Slugs" Could One Day Crawl Across Alien Worlds
+  Link: https://www.universetoday.com/articles/shape-shifting-robotic-slugs-could-one-day-crawl-across-alien-worlds
+
 - Euclid's First Data Release: A Stepping Stone to its 3D Map of the Sky
   Link: https://www.universetoday.com/articles/euclids-first-data-release-a-stepping-stone-to-its-3d-map-of-the-sky
 
@@ -66,24 +84,6 @@ Generated on: 2026-11-13 15:46:54 UTC
 
 - Asteroid Bennu's Sample Delivers Another Surprise
   Link: https://www.universetoday.com/articles/asteroid-bennus-sample-delivers-another-surprise
-
-- Solving the Space Junk Crisis Isn't Just About Counting Trash—It’s About Control and Economics
-  Link: https://www.universetoday.com/articles/solving-the-space-junk-crisis-isnt-just-about-counting-trashits-about-control-and-economics
-
-- Astrophysicists Want to Forecast When a Black Hole Launches Its Jets
-  Link: https://www.universetoday.com/articles/astrophysicists-want-to-forecast-when-a-black-hole-launches-its-jets
-
-- The Ice Giants' Magnetic Fields are Very Strange Compared to Earth's
-  Link: https://www.universetoday.com/articles/the-ice-giants-magnetic-fields-are-very-strange-compared-to-earths
-
-- Asteroid Mining Will Crash the Platinum Market, But That’s Good News for Earth
-  Link: https://www.universetoday.com/articles/asteroid-mining-will-crash-the-platinum-market-but-thats-good-news-for-earth
-
-- The Chandra X-Ray Observatory Unmasks a Supernova Impostor
-  Link: https://www.universetoday.com/articles/the-chandra-x-ray-observatory-unmasks-a-supernova-impostor
-
-- Planets Don't Just Disappear, But They Can Wobble Out of Sight if Their Neighbour is Close Enough
-  Link: https://www.universetoday.com/articles/planets-dont-just-disappear-but-they-can-wobble-out-of-sight-if-their-neighbour-is-close-enough
 
 === ESA Top News ===
 - Hera spies a half-hidden asteroid moonlet
