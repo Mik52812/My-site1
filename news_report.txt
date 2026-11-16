@@ -1,7 +1,13 @@
 === DAILY SCIENCE NEWS REPORT ===
-Generated on: 2026-11-15 15:05:34 UTC
+Generated on: 2026-11-16 17:38:58 UTC
 
 === NASA News ===
+- Contractor to Civil Servant: NASA Welcomes Jim Mirandy
+  Link: https://www.nasa.gov/centers-and-facilities/stennis/contractor-to-civil-servant-jim-mirandy/
+
+- APOD: 2026 November 16 – NGC 7129: Star Formation with Jets from Webb
+  Link: https://science.nasa.gov/image-article/apod-2026-november-16-ngc-7129-star-formation-with-jets-from-webb/
+
 - Outbursts from a Massive Star
   Link: https://www.nasa.gov/image-article/outbursts-from-a-massive-star/
 
@@ -19,15 +25,6 @@ Generated on: 2026-11-15 15:05:34 UTC
 
 - NASA Ames Stars of the Month: November 2026
   Link: https://www.nasa.gov/general/nasa-ames-stars-of-the-month-november-2026/
-
-- NASA’s Hubble Offers Cosmic Sampler of Targets for Roman
-  Link: https://science.nasa.gov/missions/hubble/nasas-hubble-offers-cosmic-sampler-of-targets-for-roman/
-
-- Through NASA’s Lens: Capturing Space Shuttle Endeavour’s Move to LA
-  Link: https://www.nasa.gov/centers-and-facilities/armstrong/through-nasas-lens-capturing-space-shuttle-endeavours-move-to-la/
-
-- APOD: 2026 November 12 – Moon, Venus and Spica Meet
-  Link: https://science.nasa.gov/image-article/apod-2026-november-12-moon-venus-and-spica-meet/
 
 === Space News ===
 - Commercial Space Federation Welcomes CesiumAstro as a New Associate Member
