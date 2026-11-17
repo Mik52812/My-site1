@@ -1,37 +1,21 @@
 === DAILY SCIENCE NEWS REPORT ===
-Generated on: 2026-11-16 17:38:58 UTC
+Generated on: 2026-11-17 17:11:38 UTC
 
 === NASA News ===
-- Contractor to Civil Servant: NASA Welcomes Jim Mirandy
-  Link: https://www.nasa.gov/centers-and-facilities/stennis/contractor-to-civil-servant-jim-mirandy/
-
-- APOD: 2026 November 16 – NGC 7129: Star Formation with Jets from Webb
-  Link: https://science.nasa.gov/image-article/apod-2026-november-16-ngc-7129-star-formation-with-jets-from-webb/
-
-- Outbursts from a Massive Star
-  Link: https://www.nasa.gov/image-article/outbursts-from-a-massive-star/
-
-- Gemini Astronaut Photos Inspired Early Earth Observation Program
-  Link: https://www.nasa.gov/image-article/gemini-astronaut-photos-inspired-early-earth-observation-program/
-
-- APOD: 2026 November 13 – NGC 206 and the Star Clouds of Andromeda
-  Link: https://science.nasa.gov/image-article/apod-2026-november-13-ngc-206-and-the-star-clouds-of-andromeda/
-
-- I Am Artemis Katie Spicer
-  Link: https://www.nasa.gov/missions/artemis/i-am-artemis-katie-spicer/
-
-- Heart in the Sky at NASA Kennedy
-  Link: https://www.nasa.gov/image-article/heart-in-the-sky-at-nasa-kennedy/
-
-- NASA Ames Stars of the Month: November 2026
-  Link: https://www.nasa.gov/general/nasa-ames-stars-of-the-month-november-2026/
+No entries found or failed to parse feed.
 
 === Space News ===
+- How AI is pushing satellites to evolve
+  Link: https://spacenews.com/how-ai-is-pushing-satellites-to-evolve/
+
+- Cosmo Bee to flight-test Honeybee Hall thruster with D-Orbit in 2027
+  Link: https://spacenews.com/cosmo-bee-to-flight-test-honeybee-hall-thruster-with-d-orbit-in-2027/
+
+- SpaceNukes Opens Los Alamos Manufacture and Materials Facility to Build Its Next-Generation Space Reactor
+  Link: https://spacenews.com/spacenukes-opens-los-alamos-manufacture-and-materials-facility-to-build-its-next-generation-space-reactor/
+
 - Commercial Space Federation Welcomes CesiumAstro as a New Associate Member
   Link: https://spacenews.com/commercial-space-federation-welcomes-cesiumastro-as-a-new-associate-member/
-
-- AST SpaceMobile presses case for developing own launch vehicle
-  Link: https://spacenews.com/ast-spacemobile-presses-case-for-developing-own-launch-vehicle/
 
 - UARX Space Marks a Milestone for Spain’s Space Industry with the Maiden Flight of OSSIE-D, Featuring a Complete Power Subsystem Supplied by DHV Technology
   Link: https://spacenews.com/uarx-space-marks-a-milestone-for-spains-space-industry-with-the-maiden-flight-of-ossie-d-featuring-a-complete-power-subsystem-supplied-by-dhv-technology/
@@ -51,13 +35,19 @@ Generated on: 2026-11-16 17:38:58 UTC
 - Kratos and Seagate Space Partner to Advance Mobile Offshore Launch Capabilities for National Security Missions
   Link: https://spacenews.com/kratos-and-seagate-space-partner-to-advance-mobile-offshore-launch-capabilities-for-national-security-missions/
 
-- ESCAPADE on its way to Mars after Earth flybys
-  Link: https://spacenews.com/escapade-on-its-way-to-mars-after-earth-flybys/
-
-- CCIA Report Highlights Satellite Connectivity’s Potential to Expand Internet Access and Drive Economic Growth
-  Link: https://spacenews.com/ccia-report-highlights-satellite-connectivitys-potential-to-expand-internet-access-and-drive-economic-growth/
-
 === Universe Today ===
+- China Signals Its Intention to Land on Jupiter's Moon Callisto
+  Link: https://www.universetoday.com/articles/china-signals-its-intention-to-land-on-jupiters-moon-callisto
+
+- Galaxy Outflows Likely Regulate Star Formation At ‘Cosmic Noon’ NASA’s Webb Reveals
+  Link: https://www.universetoday.com/articles/galaxy-outflows-likely-regulate-star-formation-at-cosmic-noon-nasas-webb-reveals
+
+- Ringing Black Holes Offer Precision Tests of Relativity
+  Link: https://www.universetoday.com/articles/ringing-black-holes-offer-precision-tests-of-relativity
+
+- This Supernova is 50 Million Light Years Away, But That's Close Enough For Astronomers
+  Link: https://www.universetoday.com/articles/this-supernova-is-50-million-light-years-away-but-thats-close-enough-for-astronomers
+
 - Navigating Lunar Orbit Using Nothing But Shadows And A Power Meter
   Link: https://www.universetoday.com/articles/navigating-lunar-orbit-using-nothing-but-shadows-and-a-power-meter
 
@@ -70,19 +60,10 @@ Generated on: 2026-11-16 17:38:58 UTC
 - When Einstein's Gravitational Waves Meet Newton's Tides
   Link: https://www.universetoday.com/articles/when-einsteins-gravitational-waves-meet-newtons-tides
 
-- Astrophysicists Cross Another Dark Matter Candidate Off Their List: Stupendously Large Black Holes
-  Link: https://www.universetoday.com/articles/astrophysicists-cross-another-dark-matter-candidate-off-their-list-stupendously-large-black-holes
-
-- SpaceX Launches Starship But Passes Up Booster Catch for Safety's Sake
-  Link: https://www.universetoday.com/articles/spacex-launches-starship-but-passes-up-booster-catch-for-safetys-sake
-
-- LOFAR Takes the Deepest Image of the Low-Frequency Radio Sky to Date
-  Link: https://www.universetoday.com/articles/lofar-takes-the-deepest-image-of-the-low-frequency-radio-sky-to-date
-
-- Shape-Shifting Robotic "Slugs" Could One Day Crawl Across Alien Worlds
-  Link: https://www.universetoday.com/articles/shape-shifting-robotic-slugs-could-one-day-crawl-across-alien-worlds
-
 === ESA Top News ===
+- Hera surveying asteroids with superhuman vision
+  Link: https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/hera-surveying-asteroids-with-superhuman-vision
+
 - Hera spies a half-hidden asteroid moonlet
   Link: https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/hera-spies-a-half-hidden-asteroid-moonlet
 
@@ -109,9 +90,6 @@ Generated on: 2026-11-16 17:38:58 UTC
 
 - Europe&#039;s space future in focus at the International Space Summit
   Link: https://www.esa.int/articles/news-media/news/europe-s-space-future-in-focus-at-the-international-space-summit
-
-- First contracts kick off European Launcher Challenge
-  Link: https://www.esa.int/articles/about-us/directorates/space-transportation/first-contracts-kick-off-european-launcher-challenge
 
 === Phys.org Archaeology ===
 No matching news found for today based on keywords.
