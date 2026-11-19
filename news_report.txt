@@ -1,32 +1,44 @@
 === DAILY SCIENCE NEWS REPORT ===
-Generated on: 2026-11-18 16:47:48 UTC
+Generated on: 2026-11-19 16:55:36 UTC
 
 === NASA News ===
-- APOD: 2026 November 18 – An M-class Solar Flare
-  Link: https://science.nasa.gov/image-article/apod-2026-november-18-an-m-class-solar-flare/
+- NASA Science Data Powers New Method to Discover Hard-to-Find Pulsars
+  Link: https://science.nasa.gov/open-science/fermi-data-pulsar-discovery/
 
-- NASA Launches Nuclear Power Systems Student Contest
-  Link: https://science.nasa.gov/centers-and-facilities/glenn/nasa-launches-nuclear-power-systems-student-contest/
+- Lake Pelku
+  Link: https://www.nasa.gov/image-article/lake-pelku/
 
-- NASA Space Apps Challenge Breaks Global Hackathon Records
-  Link: https://science.nasa.gov/open-science/nasa-space-apps-challenge-breaks-global-hackathon-records/
+- NASA Conducts Latest RS-25 Engine Test in Support of Future Artemis Missions
+  Link: https://www.nasa.gov/image-article/latest-rs-25-engine-test-in-support-of-future-artemis-missions/
 
-- BPS Digital AVATAR Challenge
-  Link: https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/bps-digital-avatar-challenge/
+- NASA’s Voyager 1 Makes History Reaching One Light-Day From Earth
+  Link: https://www.nasa.gov/news-release/nasas-voyager-1-makes-history-reaching-one-light-day-from-earth/
 
-- New Album of Baby Star Sounds Shared by NASA’s Chandra
-  Link: https://science.nasa.gov/missions/chandra/new-album-of-baby-star-sounds-shared-by-nasas-chandra/
+- APOD: 2026 November 19 – The Horsehead and Flame Nebulas
+  Link: https://science.nasa.gov/image-article/apod-2026-november-19-the-horsehead-and-flame-nebulas/
 
-- NASA to Cover 35th SpaceX Resupply Mission Space Station Departure
-  Link: https://www.nasa.gov/news-release/nasa-to-cover-35th-spacex-resupply-mission-space-station-departure/
+- NASA Sets Coverage for Northrop Grumman CRS-25 Launch, Prelaunch
+  Link: https://www.nasa.gov/news-release/nasa-sets-coverage-for-northrop-grumman-crs-25-launch-prelaunch/
 
-- NICER Status Updates
-  Link: https://www.nasa.gov/missions/station/nicer-status-updates/
+- NASA Announces Mid-Power Electric Rocket Challenge for US Companies
+  Link: https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-announces-mid-power-electric-rocket-challenge-for-us-companies/
 
-- NASA to Conduct Low-Altitude Flights Over Texas Farmland
-  Link: https://www.nasa.gov/general/nasa-to-conduct-low-altitude-flights-over-texas-farmland/
+- Empire State Building Goes Gold for Voyager
+  Link: https://www.nasa.gov/image-article/empire-state-building-goes-gold-for-voyager/
 
 === Space News ===
+- Making the case for optical
+  Link: https://spacenews.com/making-the-case-for-optical/
+
+- Flexell Space and ALATYR Sign MoU to Explore Solar Power Solutions for Orbital Data Centers
+  Link: https://spacenews.com/flexell-space-and-alatyr-sign-mou-to-explore-solar-power-solutions-for-orbital-data-centers/
+
+- All Points Logistics Announces Partnership with Expeditors for Space Prep Logistics Center at Kennedy Space Center
+  Link: https://spacenews.com/all-points-logistics-announces-partnership-with-expeditors-for-space-prep-logistics-center-at-kennedy-space-center/
+
+- Origami and solar arrays
+  Link: https://spacenews.com/origami-and-solar-arrays/
+
 - How AI is pushing satellites to evolve
   Link: https://spacenews.com/how-ai-is-pushing-satellites-to-evolve/
 
@@ -45,42 +57,36 @@ Generated on: 2026-11-18 16:47:48 UTC
 - What role does industry play in Europe’s space sovereignty push?
   Link: https://spacenews.com/what-role-does-industry-play-in-europes-space-sovereignty-push/
 
-- Senate committee takes up nominees for NASA chief financial officer and inspector general
-  Link: https://spacenews.com/senate-committee-takes-up-nominees-for-nasa-chief-financial-officer-and-inspector-general/
-
-- Moog Marks 25 Years Since ESPA Design Milestone: Innovating Space Rideshare
-  Link: https://spacenews.com/moog-marks-25-years-since-espa-design-milestone-innovating-space-rideshare/
-
-- Horizon Microtechnologies Targets Constellation-Scale Production As Esa Phi-Lab Selection Strengthens Industrialisation Push
-  Link: https://spacenews.com/horizon-microtechnologies-targets-constellation-scale-production-as-esa-phi-lab-selection-strengthens-industrialisation-push/
-
-- Kratos and Seagate Space Partner to Advance Mobile Offshore Launch Capabilities for National Security Missions
-  Link: https://spacenews.com/kratos-and-seagate-space-partner-to-advance-mobile-offshore-launch-capabilities-for-national-security-missions/
-
 === Universe Today ===
+- ESA's Hera Probe Uses "Superhuman" Vision to Inspect NASA's Asteroid Crash Site
+  Link: https://www.universetoday.com/articles/esas-hera-probe-uses-superhuman-vision-to-inspect-nasas-asteroid-crash-site
+
+- Euclid's Hunt for Strong Gravitational Lenses is Off to a Strong Start
+  Link: https://www.universetoday.com/articles/euclids-hunt-for-strong-gravitational-lenses-is-off-to-a-strong-start
+
+- Feast Your Eyes on Uranus at Opposition This Thanksgiving 2026
+  Link: https://www.universetoday.com/articles/feast-your-eyes-on-uranus-at-opposition-this-thanksgiving-2026
+
+- Reconstructing Cosmic History and Earth's Evolution From Cosmic Explosions
+  Link: https://www.universetoday.com/articles/reconstructing-cosmic-history-and-earths-evolution-from-cosmic-explosions
+
+- The Simons Observatory is Online and Surveying the Cosmic Microwave Background
+  Link: https://www.universetoday.com/articles/the-simons-observatory-is-online-and-surveying-the-cosmic-microwave-background
+
+- Are Uranus and Neptune Secretly "Rock Giants"? A Noble Gas Might Hold the Answer
+  Link: https://www.universetoday.com/articles/are-uranus-and-neptune-secretly-rock-giants-a-noble-gas-might-hold-the-answer
+
+- Extremely Accurate Measurements of a Pair of Flaring Red Dwarfs
+  Link: https://www.universetoday.com/articles/extremely-accurate-measurements-of-a-pair-of-flaring-red-dwarfs
+
+- Fermi’s 14-Year All-Sky Map Bridges Astronomy’s Elusive "MeV Gap"
+  Link: https://www.universetoday.com/articles/fermis-14-year-all-sky-map-bridges-astronomys-elusive-mev-gap
+
 - Microscopic Space Dust Reveals A Hidden Reservoir Of "Heavy Water" Beyond Neptune
   Link: https://www.universetoday.com/articles/microscopic-space-dust-reveals-a-hidden-reservoir-of-heavy-water-beyond-neptune
 
 - Computer Simulations Provide the Best Explanation for Those "Little Red Dots" Yet!
   Link: https://www.universetoday.com/articles/computer-simulations-provide-the-best-explanation-for-those-little-red-dots-yet
-
-- Black Holes and Their Mysterious Bright Structures Explained
-  Link: https://www.universetoday.com/articles/black-holes-and-their-mysterious-bright-structures-explained
-
-- Searching for Elusive Signals in the Cosmic Microwave Background from the South Pole
-  Link: https://www.universetoday.com/articles/searching-for-elusive-signals-in-the-cosmic-microwave-background-from-the-south-pole
-
-- China Signals Its Intention to Land on Jupiter's Moon Callisto
-  Link: https://www.universetoday.com/articles/china-signals-its-intention-to-land-on-jupiters-moon-callisto
-
-- Galaxy Outflows Likely Regulate Star Formation At ‘Cosmic Noon’ NASA’s Webb Reveals
-  Link: https://www.universetoday.com/articles/galaxy-outflows-likely-regulate-star-formation-at-cosmic-noon-nasas-webb-reveals
-
-- Ringing Black Holes Offer Precision Tests of Relativity
-  Link: https://www.universetoday.com/articles/ringing-black-holes-offer-precision-tests-of-relativity
-
-- This Supernova is 50 Million Light Years Away, But That's Close Enough For Astronomers
-  Link: https://www.universetoday.com/articles/this-supernova-is-50-million-light-years-away-but-thats-close-enough-for-astronomers
 
 === ESA Top News ===
 - First thermal images from Sentinel-3C radiometer
@@ -114,5 +120,8 @@ Generated on: 2026-11-18 16:47:48 UTC
   Link: https://www.esa.int/articles/about-us/directorates/space-transportation/future-space-transportation/prometheus-reusable-rocket-engine-fires-up-at-improved-test-bench
 
 === Phys.org Archaeology ===
+- Archaeology students find Roman treasures on first excavation
+  Link: https://phys.org/news/2026-11-archaeology-students-roman-treasures-excavation.html
+
 - Ancient remains reveal Britain's first Roman capital was surprisingly diverse
   Link: https://phys.org/news/2026-11-ancient-reveal-britain-roman-capital.html
