@@ -1,7 +1,16 @@
 === DAILY SCIENCE NEWS REPORT ===
-Generated on: 2026-11-19 16:55:36 UTC
+Generated on: 2026-11-20 16:29:24 UTC
 
 === NASA News ===
+- NASA’s Curiosity Mars Rover Collects Samples
+  Link: https://www.nasa.gov/image-article/nasas-curiosity-mars-rover-collects-samples/
+
+- APOD: 2026 November 20 – V-G-R
+  Link: https://science.nasa.gov/image-article/apod-2026-november-20-v-g-r/
+
+- Challenge: Public Input on Life and the World in 2075
+  Link: https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/challenge-public-input-on-life-and-the-world-in-2075/
+
 - NASA Science Data Powers New Method to Discover Hard-to-Find Pulsars
   Link: https://science.nasa.gov/open-science/fermi-data-pulsar-discovery/
 
@@ -17,16 +26,10 @@ Generated on: 2026-11-19 16:55:36 UTC
 - APOD: 2026 November 19 – The Horsehead and Flame Nebulas
   Link: https://science.nasa.gov/image-article/apod-2026-november-19-the-horsehead-and-flame-nebulas/
 
-- NASA Sets Coverage for Northrop Grumman CRS-25 Launch, Prelaunch
-  Link: https://www.nasa.gov/news-release/nasa-sets-coverage-for-northrop-grumman-crs-25-launch-prelaunch/
-
-- NASA Announces Mid-Power Electric Rocket Challenge for US Companies
-  Link: https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-announces-mid-power-electric-rocket-challenge-for-us-companies/
-
-- Empire State Building Goes Gold for Voyager
-  Link: https://www.nasa.gov/image-article/empire-state-building-goes-gold-for-voyager/
-
 === Space News ===
+- The sweet spot for constellation size
+  Link: https://spacenews.com/the-sweet-spot-for-constellation-size/
+
 - Making the case for optical
   Link: https://spacenews.com/making-the-case-for-optical/
 
@@ -54,10 +57,16 @@ Generated on: 2026-11-19 16:55:36 UTC
 - UARX Space Marks a Milestone for Spain’s Space Industry with the Maiden Flight of OSSIE-D, Featuring a Complete Power Subsystem Supplied by DHV Technology
   Link: https://spacenews.com/uarx-space-marks-a-milestone-for-spains-space-industry-with-the-maiden-flight-of-ossie-d-featuring-a-complete-power-subsystem-supplied-by-dhv-technology/
 
-- What role does industry play in Europe’s space sovereignty push?
-  Link: https://spacenews.com/what-role-does-industry-play-in-europes-space-sovereignty-push/
-
 === Universe Today ===
+- Sound Waves From Sunspots Launch Fiery Plasma Jets Across the Sun
+  Link: https://www.universetoday.com/articles/sound-waves-from-sunspots-launch-fiery-plasma-jets-across-the-sun
+
+- This is the First Time Astronomers Have Seen One of These Stellar Mergers
+  Link: https://www.universetoday.com/articles/this-is-the-first-time-astronomers-have-seen-one-of-these-stellar-mergers
+
+- Tiny Grains of Sand Act as Cosmic Speedometers for Alien Winds
+  Link: https://www.universetoday.com/articles/tiny-grains-of-sand-act-as-cosmic-speedometers-for-alien-winds
+
 - ESA's Hera Probe Uses "Superhuman" Vision to Inspect NASA's Asteroid Crash Site
   Link: https://www.universetoday.com/articles/esas-hera-probe-uses-superhuman-vision-to-inspect-nasas-asteroid-crash-site
 
@@ -76,19 +85,16 @@ Generated on: 2026-11-19 16:55:36 UTC
 - Are Uranus and Neptune Secretly "Rock Giants"? A Noble Gas Might Hold the Answer
   Link: https://www.universetoday.com/articles/are-uranus-and-neptune-secretly-rock-giants-a-noble-gas-might-hold-the-answer
 
-- Extremely Accurate Measurements of a Pair of Flaring Red Dwarfs
-  Link: https://www.universetoday.com/articles/extremely-accurate-measurements-of-a-pair-of-flaring-red-dwarfs
-
-- Fermi’s 14-Year All-Sky Map Bridges Astronomy’s Elusive "MeV Gap"
-  Link: https://www.universetoday.com/articles/fermis-14-year-all-sky-map-bridges-astronomys-elusive-mev-gap
-
-- Microscopic Space Dust Reveals A Hidden Reservoir Of "Heavy Water" Beyond Neptune
-  Link: https://www.universetoday.com/articles/microscopic-space-dust-reveals-a-hidden-reservoir-of-heavy-water-beyond-neptune
-
-- Computer Simulations Provide the Best Explanation for Those "Little Red Dots" Yet!
-  Link: https://www.universetoday.com/articles/computer-simulations-provide-the-best-explanation-for-those-little-red-dots-yet
-
 === ESA Top News ===
+- Rain breaks up Earth’s natural sunshades
+  Link: https://www.esa.int/articles/about-us/directorates/earth-observation-programmes/futureeo/earthcare/rain-breaks-up-earth-s-natural-sunshades
+
+- Watch live: Hera’s first images of post-impact asteroid Dimorphos
+  Link: https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/watch-live-hera-s-first-images-of-post-impact-asteroid-dimorphos
+
+- Seven-spacecraft observatory to study plasma universe
+  Link: https://www.esa.int/articles/about-us/directorates/science/seven-spacecraft-observatory-to-study-plasma-universe
+
 - First thermal images from Sentinel-3C radiometer
   Link: https://www.esa.int/articles/about-us/directorates/earth-observation-programmes/copernicus/sentinel-3/first-thermal-images-from-sentinel-3c-radiometer
 
@@ -110,16 +116,10 @@ Generated on: 2026-11-19 16:55:36 UTC
 - Hera spacecraft in ‘rectangular orbit’ around target asteroids
   Link: https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/hera-spacecraft-in-rectangular-orbit-around-target-asteroids
 
-- Predicting El Niño&#039;s impact on carbon sinks
-  Link: https://www.esa.int/articles/about-us/directorates/earth-observation-programmes/futureeo/space-for-our-climate/predicting-el-nino-s-impact-on-carbon-sinks
-
-- MTG-I2 weather satellite delivers first images
-  Link: https://www.esa.int/articles/about-us/directorates/earth-observation-programmes/meteorological-missions/meteosat-third-generation/mtg-i2-weather-satellite-delivers-first-images
-
-- Prometheus reusable rocket engine fires up at improved test bench
-  Link: https://www.esa.int/articles/about-us/directorates/space-transportation/future-space-transportation/prometheus-reusable-rocket-engine-fires-up-at-improved-test-bench
-
 === Phys.org Archaeology ===
+- US and Iran once practiced diplomacy through archaeology—that legacy need not lie in ruins
+  Link: https://phys.org/news/2026-11-iran-diplomacy-archaeology-legacy.html
+
 - Archaeology students find Roman treasures on first excavation
   Link: https://phys.org/news/2026-11-archaeology-students-roman-treasures-excavation.html
 
