@@ -1,7 +1,19 @@
 === DAILY SCIENCE NEWS REPORT ===
-Generated on: 2026-11-20 16:29:24 UTC
+Generated on: 2026-11-21 15:44:38 UTC
 
 === NASA News ===
+- APOD: 2026 November 21 – Voyager’s Neptune
+  Link: https://science.nasa.gov/image-article/apod-2026-november-21-voyagers-neptune/
+
+- Curiosity Spots Drifting Twilight Clouds
+  Link: https://science.nasa.gov/photojournal/curiosity-spots-drifting-twilight-clouds/
+
+- New NASA Seed Funding Primes Small Businesses for Innovation
+  Link: https://www.nasa.gov/directorates/rtmd/new-nasa-seed-funding-primes-small-businesses-for-innovation/
+
+- NASA Honor Awards Ceremony Recognizes Employees at Stennis Space Center
+  Link: https://www.nasa.gov/centers-and-facilities/stennis/honor-awards-ceremony-at-stennis/
+
 - NASA’s Curiosity Mars Rover Collects Samples
   Link: https://www.nasa.gov/image-article/nasas-curiosity-mars-rover-collects-samples/
 
@@ -16,15 +28,6 @@ Generated on: 2026-11-20 16:29:24 UTC
 
 - Lake Pelku
   Link: https://www.nasa.gov/image-article/lake-pelku/
-
-- NASA Conducts Latest RS-25 Engine Test in Support of Future Artemis Missions
-  Link: https://www.nasa.gov/image-article/latest-rs-25-engine-test-in-support-of-future-artemis-missions/
-
-- NASA’s Voyager 1 Makes History Reaching One Light-Day From Earth
-  Link: https://www.nasa.gov/news-release/nasas-voyager-1-makes-history-reaching-one-light-day-from-earth/
-
-- APOD: 2026 November 19 – The Horsehead and Flame Nebulas
-  Link: https://science.nasa.gov/image-article/apod-2026-november-19-the-horsehead-and-flame-nebulas/
 
 === Space News ===
 - The sweet spot for constellation size
@@ -58,6 +61,12 @@ Generated on: 2026-11-20 16:29:24 UTC
   Link: https://spacenews.com/uarx-space-marks-a-milestone-for-spains-space-industry-with-the-maiden-flight-of-ossie-d-featuring-a-complete-power-subsystem-supplied-by-dhv-technology/
 
 === Universe Today ===
+- Space Entrepreneurs Should Look To 16th Century Spice Trade For Inspiration
+  Link: https://www.universetoday.com/articles/space-entrepreneurs-should-look-to-16th-century-spice-trade-for-inspiration
+
+- A Radical Theory about the Universe Just Passed Some Key Tests. So... What Does that Mean?
+  Link: https://www.universetoday.com/articles/a-radical-theory-about-the-universe-just-passed-some-key-tests-so-what-does-that-mean
+
 - Sound Waves From Sunspots Launch Fiery Plasma Jets Across the Sun
   Link: https://www.universetoday.com/articles/sound-waves-from-sunspots-launch-fiery-plasma-jets-across-the-sun
 
@@ -72,18 +81,6 @@ Generated on: 2026-11-20 16:29:24 UTC
 
 - Euclid's Hunt for Strong Gravitational Lenses is Off to a Strong Start
   Link: https://www.universetoday.com/articles/euclids-hunt-for-strong-gravitational-lenses-is-off-to-a-strong-start
-
-- Feast Your Eyes on Uranus at Opposition This Thanksgiving 2026
-  Link: https://www.universetoday.com/articles/feast-your-eyes-on-uranus-at-opposition-this-thanksgiving-2026
-
-- Reconstructing Cosmic History and Earth's Evolution From Cosmic Explosions
-  Link: https://www.universetoday.com/articles/reconstructing-cosmic-history-and-earths-evolution-from-cosmic-explosions
-
-- The Simons Observatory is Online and Surveying the Cosmic Microwave Background
-  Link: https://www.universetoday.com/articles/the-simons-observatory-is-online-and-surveying-the-cosmic-microwave-background
-
-- Are Uranus and Neptune Secretly "Rock Giants"? A Noble Gas Might Hold the Answer
-  Link: https://www.universetoday.com/articles/are-uranus-and-neptune-secretly-rock-giants-a-noble-gas-might-hold-the-answer
 
 === ESA Top News ===
 - Rain breaks up Earth’s natural sunshades
