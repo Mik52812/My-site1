@@ -1,7 +1,10 @@
 === DAILY SCIENCE NEWS REPORT ===
-Generated on: 2026-11-21 15:44:38 UTC
+Generated on: 2026-11-22 15:46:42 UTC
 
 === NASA News ===
+- APOD: 2026 November 22 – Swirls and Colors on Jupiter from Juno
+  Link: https://science.nasa.gov/image-article/apod-2026-november-22-swirls-and-colors-on-jupiter-from-juno/
+
 - APOD: 2026 November 21 – Voyager’s Neptune
   Link: https://science.nasa.gov/image-article/apod-2026-november-21-voyagers-neptune/
 
@@ -25,9 +28,6 @@ Generated on: 2026-11-21 15:44:38 UTC
 
 - NASA Science Data Powers New Method to Discover Hard-to-Find Pulsars
   Link: https://science.nasa.gov/open-science/fermi-data-pulsar-discovery/
-
-- Lake Pelku
-  Link: https://www.nasa.gov/image-article/lake-pelku/
 
 === Space News ===
 - The sweet spot for constellation size
