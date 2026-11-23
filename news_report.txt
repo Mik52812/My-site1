@@ -1,7 +1,28 @@
 === DAILY SCIENCE NEWS REPORT ===
-Generated on: 2026-11-22 15:46:42 UTC
+Generated on: 2026-11-23 19:37:57 UTC
 
 === NASA News ===
+- Studying Cancer Cells in Microgravity
+  Link: https://www.nasa.gov/image-article/studying-cancer-cells-in-microgravity/
+
+- NASA Seeks Partners to Design First Nuclear Reactor for the Moon
+  Link: https://www.nasa.gov/directorates/rtmd/nasa-seeks-partners-to-design-first-nuclear-reactor-for-the-moon/
+
+- NASA+ Documentary Captures Europa Clipper’s Journey Into Deep Space
+  Link: https://www.nasa.gov/missions/europa-clipper/nasa-documentary-captures-europa-clippers-journey-into-deep-space/
+
+- NASA’s Webb Shows How Supernova Dust Chronicles Star Evolution
+  Link: https://science.nasa.gov/missions/webb/nasas-webb-shows-how-supernova-dust-chronicles-star-evolution/
+
+- APOD: 2026 November 23 – The Emergence of Dark Nebula Lynds 1251
+  Link: https://science.nasa.gov/image-article/apod-2026-november-23-the-emergence-of-dark-nebula-lynds-1251/
+
+- Laser Focus at the Top of the World
+  Link: https://science.nasa.gov/earth/earth-observatory/laser-focus-at-the-top-of-the-world/
+
+- 65 Years of Human Spaceflight at NASA Johnson
+  Link: https://www.nasa.gov/centers-and-facilities/johnson/65-years-of-human-spaceflight-at-nasa-johnson/
+
 - APOD: 2026 November 22 – Swirls and Colors on Jupiter from Juno
   Link: https://science.nasa.gov/image-article/apod-2026-november-22-swirls-and-colors-on-jupiter-from-juno/
 
@@ -10,24 +31,6 @@ Generated on: 2026-11-22 15:46:42 UTC
 
 - Curiosity Spots Drifting Twilight Clouds
   Link: https://science.nasa.gov/photojournal/curiosity-spots-drifting-twilight-clouds/
-
-- New NASA Seed Funding Primes Small Businesses for Innovation
-  Link: https://www.nasa.gov/directorates/rtmd/new-nasa-seed-funding-primes-small-businesses-for-innovation/
-
-- NASA Honor Awards Ceremony Recognizes Employees at Stennis Space Center
-  Link: https://www.nasa.gov/centers-and-facilities/stennis/honor-awards-ceremony-at-stennis/
-
-- NASA’s Curiosity Mars Rover Collects Samples
-  Link: https://www.nasa.gov/image-article/nasas-curiosity-mars-rover-collects-samples/
-
-- APOD: 2026 November 20 – V-G-R
-  Link: https://science.nasa.gov/image-article/apod-2026-november-20-v-g-r/
-
-- Challenge: Public Input on Life and the World in 2075
-  Link: https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/challenge-public-input-on-life-and-the-world-in-2075/
-
-- NASA Science Data Powers New Method to Discover Hard-to-Find Pulsars
-  Link: https://science.nasa.gov/open-science/fermi-data-pulsar-discovery/
 
 === Space News ===
 - The sweet spot for constellation size
@@ -61,6 +64,15 @@ Generated on: 2026-11-22 15:46:42 UTC
   Link: https://spacenews.com/uarx-space-marks-a-milestone-for-spains-space-industry-with-the-maiden-flight-of-ossie-d-featuring-a-complete-power-subsystem-supplied-by-dhv-technology/
 
 === Universe Today ===
+- Ultra-Thin "Rainbow" Sails Could Power Spacecraft and Shade the Earth
+  Link: https://www.universetoday.com/articles/ultra-thin-rainbow-sails-could-power-spacecraft-and-shade-the-earth
+
+- LISA's Gravitational Wave Detections Could Reveal Exoplanets
+  Link: https://www.universetoday.com/articles/lisas-gravitational-wave-detections-could-reveal-exoplanets
+
+- Bacteria and Nuclear Power Could Grow Ready-Made Homes on Mars Before Astronauts Arrive
+  Link: https://www.universetoday.com/articles/bacteria-and-nuclear-power-could-grow-ready-made-homes-on-mars-before-astronauts-arrive
+
 - Space Entrepreneurs Should Look To 16th Century Spice Trade For Inspiration
   Link: https://www.universetoday.com/articles/space-entrepreneurs-should-look-to-16th-century-spice-trade-for-inspiration
 
@@ -75,12 +87,6 @@ Generated on: 2026-11-22 15:46:42 UTC
 
 - Tiny Grains of Sand Act as Cosmic Speedometers for Alien Winds
   Link: https://www.universetoday.com/articles/tiny-grains-of-sand-act-as-cosmic-speedometers-for-alien-winds
-
-- ESA's Hera Probe Uses "Superhuman" Vision to Inspect NASA's Asteroid Crash Site
-  Link: https://www.universetoday.com/articles/esas-hera-probe-uses-superhuman-vision-to-inspect-nasas-asteroid-crash-site
-
-- Euclid's Hunt for Strong Gravitational Lenses is Off to a Strong Start
-  Link: https://www.universetoday.com/articles/euclids-hunt-for-strong-gravitational-lenses-is-off-to-a-strong-start
 
 === ESA Top News ===
 - Rain breaks up Earth’s natural sunshades
@@ -114,6 +120,9 @@ Generated on: 2026-11-22 15:46:42 UTC
   Link: https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/hera-spacecraft-in-rectangular-orbit-around-target-asteroids
 
 === Phys.org Archaeology ===
+- Space entrepreneurs should look to 16th-century spice trade for inspiration
+  Link: https://phys.org/news/2026-11-space-entrepreneurs-16th-century-spice.html
+
 - US and Iran once practiced diplomacy through archaeology—that legacy need not lie in ruins
   Link: https://phys.org/news/2026-11-iran-diplomacy-archaeology-legacy.html
 
