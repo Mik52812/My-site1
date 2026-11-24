@@ -1,7 +1,25 @@
 === DAILY SCIENCE NEWS REPORT ===
-Generated on: 2026-11-23 19:37:57 UTC
+Generated on: 2026-11-24 19:11:36 UTC
 
 === NASA News ===
+- NASA’s Northrop Grumman CRS-25 Mission Overview
+  Link: https://www.nasa.gov/missions/station/nasas-northrop-grumman-crs-25-mission-overview/
+
+- Webb Reveals New Details in Supernova Remnant
+  Link: https://www.nasa.gov/image-article/webb-reveals-new-details-in-supernova-remnant/
+
+- NASA’s Titan-Bound Dragonfly Rotorcraft Gets Its Eyes
+  Link: https://science.nasa.gov/missions/dragonfly/nasas-titan-bound-dragonfly-rotorcraft-gets-its-eyes/
+
+- NASA Hubble’s New View of NGC 4394 Raises the Bar
+  Link: https://science.nasa.gov/missions/hubble/nasa-hubbles-new-view-of-ngc-4394-raises-the-bar/
+
+- APOD: 2026 November 24 – Galaxies Battle in the NGC 7771 Group
+  Link: https://science.nasa.gov/image-article/apod-2026-november-24-galaxies-battle-in-the-ngc-7771-group/
+
+- NASA Awards Contract for NOAA’s Near Earth Orbit Network Program
+  Link: https://www.nasa.gov/news-release/nasa-awards-contract-for-noaas-near-earth-orbit-network-program/
+
 - Studying Cancer Cells in Microgravity
   Link: https://www.nasa.gov/image-article/studying-cancer-cells-in-microgravity/
 
@@ -11,28 +29,10 @@ Generated on: 2026-11-23 19:37:57 UTC
 - NASA+ Documentary Captures Europa Clipper’s Journey Into Deep Space
   Link: https://www.nasa.gov/missions/europa-clipper/nasa-documentary-captures-europa-clippers-journey-into-deep-space/
 
-- NASA’s Webb Shows How Supernova Dust Chronicles Star Evolution
-  Link: https://science.nasa.gov/missions/webb/nasas-webb-shows-how-supernova-dust-chronicles-star-evolution/
-
-- APOD: 2026 November 23 – The Emergence of Dark Nebula Lynds 1251
-  Link: https://science.nasa.gov/image-article/apod-2026-november-23-the-emergence-of-dark-nebula-lynds-1251/
-
-- Laser Focus at the Top of the World
-  Link: https://science.nasa.gov/earth/earth-observatory/laser-focus-at-the-top-of-the-world/
-
-- 65 Years of Human Spaceflight at NASA Johnson
-  Link: https://www.nasa.gov/centers-and-facilities/johnson/65-years-of-human-spaceflight-at-nasa-johnson/
-
-- APOD: 2026 November 22 – Swirls and Colors on Jupiter from Juno
-  Link: https://science.nasa.gov/image-article/apod-2026-november-22-swirls-and-colors-on-jupiter-from-juno/
-
-- APOD: 2026 November 21 – Voyager’s Neptune
-  Link: https://science.nasa.gov/image-article/apod-2026-november-21-voyagers-neptune/
-
-- Curiosity Spots Drifting Twilight Clouds
-  Link: https://science.nasa.gov/photojournal/curiosity-spots-drifting-twilight-clouds/
-
 === Space News ===
+- Simera Sense, Spacemanic, Zaitra and World from Space Join Forces on an End-to-End Dual-Use Mission Solution
+  Link: https://spacenews.com/simera-sense-spacemanic-zaitra-and-world-from-space-join-forces-on-an-end-to-end-dual-use-mission-solution/
+
 - The sweet spot for constellation size
   Link: https://spacenews.com/the-sweet-spot-for-constellation-size/
 
@@ -60,33 +60,30 @@ Generated on: 2026-11-23 19:37:57 UTC
 - Commercial Space Federation Welcomes CesiumAstro as a New Associate Member
   Link: https://spacenews.com/commercial-space-federation-welcomes-cesiumastro-as-a-new-associate-member/
 
-- UARX Space Marks a Milestone for Spain’s Space Industry with the Maiden Flight of OSSIE-D, Featuring a Complete Power Subsystem Supplied by DHV Technology
-  Link: https://spacenews.com/uarx-space-marks-a-milestone-for-spains-space-industry-with-the-maiden-flight-of-ossie-d-featuring-a-complete-power-subsystem-supplied-by-dhv-technology/
-
 === Universe Today ===
+- Why Mega-Constellations Have a Hidden Space Junk Blind Spot
+  Link: https://www.universetoday.com/articles/why-mega-constellations-have-a-hidden-space-junk-blind-spot
+
+- UK-Built X-Ray Telescope Ready For Action at Mercury
+  Link: https://www.universetoday.com/articles/uk-built-x-ray-telescope-ready-for-action-at-mercury
+
+- Space Lasers Are Fast, But Clouds Still Rule the Forecast
+  Link: https://www.universetoday.com/articles/space-lasers-are-fast-but-clouds-still-rule-the-forecast
+
+- A Star’s ‘Obliquity’ Likely Has Little Impact On A Given Planet’s Habitability
+  Link: https://www.universetoday.com/articles/a-stars-obliquity-likely-has-little-impact-on-a-given-planets-habitability
+
+- Making Sense of Chaotic Supernova Ejecta With the JWST
+  Link: https://www.universetoday.com/articles/making-sense-of-chaotic-supernova-ejecta-with-the-jwst
+
+- New Research Reveals Europa's Sodium Cloud Originated from its Interior Ocean
+  Link: https://www.universetoday.com/articles/new-research-reveals-europas-sodium-cloud-originated-from-its-interior-ocean
+
 - Ultra-Thin "Rainbow" Sails Could Power Spacecraft and Shade the Earth
   Link: https://www.universetoday.com/articles/ultra-thin-rainbow-sails-could-power-spacecraft-and-shade-the-earth
 
 - LISA's Gravitational Wave Detections Could Reveal Exoplanets
   Link: https://www.universetoday.com/articles/lisas-gravitational-wave-detections-could-reveal-exoplanets
-
-- Bacteria and Nuclear Power Could Grow Ready-Made Homes on Mars Before Astronauts Arrive
-  Link: https://www.universetoday.com/articles/bacteria-and-nuclear-power-could-grow-ready-made-homes-on-mars-before-astronauts-arrive
-
-- Space Entrepreneurs Should Look To 16th Century Spice Trade For Inspiration
-  Link: https://www.universetoday.com/articles/space-entrepreneurs-should-look-to-16th-century-spice-trade-for-inspiration
-
-- A Radical Theory about the Universe Just Passed Some Key Tests. So... What Does that Mean?
-  Link: https://www.universetoday.com/articles/a-radical-theory-about-the-universe-just-passed-some-key-tests-so-what-does-that-mean
-
-- Sound Waves From Sunspots Launch Fiery Plasma Jets Across the Sun
-  Link: https://www.universetoday.com/articles/sound-waves-from-sunspots-launch-fiery-plasma-jets-across-the-sun
-
-- This is the First Time Astronomers Have Seen One of These Stellar Mergers
-  Link: https://www.universetoday.com/articles/this-is-the-first-time-astronomers-have-seen-one-of-these-stellar-mergers
-
-- Tiny Grains of Sand Act as Cosmic Speedometers for Alien Winds
-  Link: https://www.universetoday.com/articles/tiny-grains-of-sand-act-as-cosmic-speedometers-for-alien-winds
 
 === ESA Top News ===
 - Rain breaks up Earth’s natural sunshades
@@ -128,6 +125,3 @@ Generated on: 2026-11-23 19:37:57 UTC
 
 - Archaeology students find Roman treasures on first excavation
   Link: https://phys.org/news/2026-11-archaeology-students-roman-treasures-excavation.html
-
-- Ancient remains reveal Britain's first Roman capital was surprisingly diverse
-  Link: https://phys.org/news/2026-11-ancient-reveal-britain-roman-capital.html
