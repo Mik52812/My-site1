@@ -1,33 +1,30 @@
 === DAILY SCIENCE NEWS REPORT ===
-Generated on: 2026-11-24 19:11:36 UTC
+Generated on: 2026-11-25 18:16:22 UTC
 
 === NASA News ===
+- Childhood, Career Come Full Circle for Budget Analyst at NASA Goddard
+  Link: https://www.nasa.gov/centers-and-facilities/goddard/childhood-career-come-full-circle-for-budget-analyst-at-nasa-goddard/
+
+- Eye of the Sahara
+  Link: https://www.nasa.gov/image-article/eye-of-the-sahara/
+
+- NASA’s Hubble Views Ocean of Stars in Groundwork for Roman
+  Link: https://science.nasa.gov/missions/hubble/nasas-hubble-views-ocean-of-stars-in-groundwork-for-roman/
+
+- APOD: 2026 November 25 – SPHEREx Seeing Through Dust
+  Link: https://science.nasa.gov/image-article/apod-2026-november-25-spherex-seeing-through-dust/
+
+- NASA+ Content Coming to Big Screen at Greenbelt, Maryland Cinema
+  Link: https://www.nasa.gov/nasa/nasa-content-coming-to-big-screen-at-greenbelt-maryland-cinema/
+
+- Teams Lock in Mission Architecture for NASA’s SR-1 Freedom
+  Link: https://www.nasa.gov/general/nasa-locks-in-sr1-freedom-mission-architecture/
+
 - NASA’s Northrop Grumman CRS-25 Mission Overview
   Link: https://www.nasa.gov/missions/station/nasas-northrop-grumman-crs-25-mission-overview/
 
-- Webb Reveals New Details in Supernova Remnant
-  Link: https://www.nasa.gov/image-article/webb-reveals-new-details-in-supernova-remnant/
-
-- NASA’s Titan-Bound Dragonfly Rotorcraft Gets Its Eyes
-  Link: https://science.nasa.gov/missions/dragonfly/nasas-titan-bound-dragonfly-rotorcraft-gets-its-eyes/
-
-- NASA Hubble’s New View of NGC 4394 Raises the Bar
-  Link: https://science.nasa.gov/missions/hubble/nasa-hubbles-new-view-of-ngc-4394-raises-the-bar/
-
-- APOD: 2026 November 24 – Galaxies Battle in the NGC 7771 Group
-  Link: https://science.nasa.gov/image-article/apod-2026-november-24-galaxies-battle-in-the-ngc-7771-group/
-
-- NASA Awards Contract for NOAA’s Near Earth Orbit Network Program
-  Link: https://www.nasa.gov/news-release/nasa-awards-contract-for-noaas-near-earth-orbit-network-program/
-
-- Studying Cancer Cells in Microgravity
-  Link: https://www.nasa.gov/image-article/studying-cancer-cells-in-microgravity/
-
-- NASA Seeks Partners to Design First Nuclear Reactor for the Moon
-  Link: https://www.nasa.gov/directorates/rtmd/nasa-seeks-partners-to-design-first-nuclear-reactor-for-the-moon/
-
-- NASA+ Documentary Captures Europa Clipper’s Journey Into Deep Space
-  Link: https://www.nasa.gov/missions/europa-clipper/nasa-documentary-captures-europa-clippers-journey-into-deep-space/
+- AGU Hyperwall Schedule
+  Link: https://science.nasa.gov/earth/agu-hyperwall-schedule/
 
 === Space News ===
 - Simera Sense, Spacemanic, Zaitra and World from Space Join Forces on an End-to-End Dual-Use Mission Solution
@@ -61,31 +58,34 @@ Generated on: 2026-11-24 19:11:36 UTC
   Link: https://spacenews.com/commercial-space-federation-welcomes-cesiumastro-as-a-new-associate-member/
 
 === Universe Today ===
+- Using Lunar Craters as Free Radiation Shields for Moon Base Nuclear Reactors
+  Link: https://www.universetoday.com/articles/using-lunar-craters-as-free-radiation-shields-for-moon-base-nuclear-reactors
+
+- Comet Encke's Shape and Heat Revealed in Thermal Glow
+  Link: https://www.universetoday.com/articles/comet-enckes-shape-and-heat-revealed-in-thermal-glow
+
+- A Brief-ish History of METI. Part IV: Millennial METI Experiments
+  Link: https://www.universetoday.com/articles/a-brief-ish-history-of-meti-part-iv-millennial-meti-experiments
+
+- A Gigantic Stellar Eruption Spreads Planetary Material Into Space
+  Link: https://www.universetoday.com/articles/a-gigantic-stellar-eruption-spreads-planetary-material-into-space
+
+- The Rise of Astrosociology: What Can Analogue Astronaut Studies Teach us About the Future of Humanity in Space?
+  Link: https://www.universetoday.com/articles/the-rise-of-astrosociology-what-can-analogue-astronaut-studies-teach-us-about-the-future-of-humanity
+
 - Why Mega-Constellations Have a Hidden Space Junk Blind Spot
   Link: https://www.universetoday.com/articles/why-mega-constellations-have-a-hidden-space-junk-blind-spot
 
-- UK-Built X-Ray Telescope Ready For Action at Mercury
-  Link: https://www.universetoday.com/articles/uk-built-x-ray-telescope-ready-for-action-at-mercury
-
-- Space Lasers Are Fast, But Clouds Still Rule the Forecast
-  Link: https://www.universetoday.com/articles/space-lasers-are-fast-but-clouds-still-rule-the-forecast
-
-- A Star’s ‘Obliquity’ Likely Has Little Impact On A Given Planet’s Habitability
-  Link: https://www.universetoday.com/articles/a-stars-obliquity-likely-has-little-impact-on-a-given-planets-habitability
-
-- Making Sense of Chaotic Supernova Ejecta With the JWST
-  Link: https://www.universetoday.com/articles/making-sense-of-chaotic-supernova-ejecta-with-the-jwst
-
-- New Research Reveals Europa's Sodium Cloud Originated from its Interior Ocean
-  Link: https://www.universetoday.com/articles/new-research-reveals-europas-sodium-cloud-originated-from-its-interior-ocean
-
-- Ultra-Thin "Rainbow" Sails Could Power Spacecraft and Shade the Earth
-  Link: https://www.universetoday.com/articles/ultra-thin-rainbow-sails-could-power-spacecraft-and-shade-the-earth
-
-- LISA's Gravitational Wave Detections Could Reveal Exoplanets
-  Link: https://www.universetoday.com/articles/lisas-gravitational-wave-detections-could-reveal-exoplanets
-
 === ESA Top News ===
+- Euclid breaks own quasar record by 40 million years
+  Link: https://www.esa.int/articles/about-us/directorates/science/euclid/euclid-breaks-own-quasar-record-by-40-million-years
+
+- BepiColombo safely in Mercury orbit despite unexpected challenge
+  Link: https://www.esa.int/articles/about-us/directorates/operations/bepicolombo-safely-in-mercury-orbit-despite-unexpected-challenge
+
+- Hera’s Didymos asteroid in eclipse
+  Link: https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/hera-s-didymos-asteroid-in-eclipse
+
 - Rain breaks up Earth’s natural sunshades
   Link: https://www.esa.int/articles/about-us/directorates/earth-observation-programmes/futureeo/earthcare/rain-breaks-up-earth-s-natural-sunshades
 
@@ -107,21 +107,9 @@ Generated on: 2026-11-24 19:11:36 UTC
 - Hera surveying asteroids with superhuman vision
   Link: https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/hera-surveying-asteroids-with-superhuman-vision
 
-- Hera spies a half-hidden asteroid moonlet
-  Link: https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/hera-spies-a-half-hidden-asteroid-moonlet
-
-- Euclid lays the foundation for its best-ever 3D map of the Universe
-  Link: https://www.esa.int/articles/about-us/directorates/science/euclid/euclid-lays-the-foundation-for-its-best-ever-3d-map-of-the-universe
-
-- Hera spacecraft in ‘rectangular orbit’ around target asteroids
-  Link: https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/hera-spacecraft-in-rectangular-orbit-around-target-asteroids
-
 === Phys.org Archaeology ===
 - Space entrepreneurs should look to 16th-century spice trade for inspiration
   Link: https://phys.org/news/2026-11-space-entrepreneurs-16th-century-spice.html
 
 - US and Iran once practiced diplomacy through archaeology—that legacy need not lie in ruins
   Link: https://phys.org/news/2026-11-iran-diplomacy-archaeology-legacy.html
-
-- Archaeology students find Roman treasures on first excavation
-  Link: https://phys.org/news/2026-11-archaeology-students-roman-treasures-excavation.html
