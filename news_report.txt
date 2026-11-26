@@ -1,7 +1,16 @@
 === DAILY SCIENCE NEWS REPORT ===
-Generated on: 2026-11-25 18:16:22 UTC
+Generated on: 2026-11-26 17:57:47 UTC
 
 === NASA News ===
+- APOD: 2026 November 26 – Eye in the Sky: The Milky Way over Lençóis
+  Link: https://science.nasa.gov/image-article/apod-2026-november-26-eye-in-the-sky-the-milky-way-over-lencois/
+
+- NASA Enhances Supplier Program, Announces Mentor-Protégé Agreement
+  Link: https://www.nasa.gov/organizations/osbp/nasa-enhances-supplier-program-announces-mentor-protege-agreement/
+
+- NASA Eyes Crop Candidates for Future Menus
+  Link: https://science.nasa.gov/directorates/smd/nasa-eyes-crop-candidates-for-future-menus/
+
 - Childhood, Career Come Full Circle for Budget Analyst at NASA Goddard
   Link: https://www.nasa.gov/centers-and-facilities/goddard/childhood-career-come-full-circle-for-budget-analyst-at-nasa-goddard/
 
@@ -17,16 +26,10 @@ Generated on: 2026-11-25 18:16:22 UTC
 - NASA+ Content Coming to Big Screen at Greenbelt, Maryland Cinema
   Link: https://www.nasa.gov/nasa/nasa-content-coming-to-big-screen-at-greenbelt-maryland-cinema/
 
-- Teams Lock in Mission Architecture for NASA’s SR-1 Freedom
-  Link: https://www.nasa.gov/general/nasa-locks-in-sr1-freedom-mission-architecture/
-
-- NASA’s Northrop Grumman CRS-25 Mission Overview
-  Link: https://www.nasa.gov/missions/station/nasas-northrop-grumman-crs-25-mission-overview/
-
-- AGU Hyperwall Schedule
-  Link: https://science.nasa.gov/earth/agu-hyperwall-schedule/
-
 === Space News ===
+- The ‘bare-knuckled’ future of life in space with Tim Marshall
+  Link: https://spacenews.com/the-bare-knuckled-future-of-life-in-space-with-tim-marshall/
+
 - Simera Sense, Spacemanic, Zaitra and World from Space Join Forces on an End-to-End Dual-Use Mission Solution
   Link: https://spacenews.com/simera-sense-spacemanic-zaitra-and-world-from-space-join-forces-on-an-end-to-end-dual-use-mission-solution/
 
@@ -54,29 +57,32 @@ Generated on: 2026-11-25 18:16:22 UTC
 - SpaceNukes Opens Los Alamos Manufacture and Materials Facility to Build Its Next-Generation Space Reactor
   Link: https://spacenews.com/spacenukes-opens-los-alamos-manufacture-and-materials-facility-to-build-its-next-generation-space-reactor/
 
-- Commercial Space Federation Welcomes CesiumAstro as a New Associate Member
-  Link: https://spacenews.com/commercial-space-federation-welcomes-cesiumastro-as-a-new-associate-member/
-
 === Universe Today ===
-- Using Lunar Craters as Free Radiation Shields for Moon Base Nuclear Reactors
-  Link: https://www.universetoday.com/articles/using-lunar-craters-as-free-radiation-shields-for-moon-base-nuclear-reactors
+- AI Helps Three Powerful Supercomputers Simulate The Milky Way In Extraordinary Detail
+  Link: https://www.universetoday.com/articles/ai-helps-three-powerful-supercomputers-simulate-the-milky-way-in-extraordinary-detail
 
-- Comet Encke's Shape and Heat Revealed in Thermal Glow
-  Link: https://www.universetoday.com/articles/comet-enckes-shape-and-heat-revealed-in-thermal-glow
+- Detection of Vaporized Rock Reveals the Birth of a Solar System
+  Link: https://www.universetoday.com/articles/detection-of-vaporized-rock-reveals-the-birth-of-a-solar-system
 
-- A Brief-ish History of METI. Part IV: Millennial METI Experiments
-  Link: https://www.universetoday.com/articles/a-brief-ish-history-of-meti-part-iv-millennial-meti-experiments
+- Robots, Not Astronauts, Will Have to Fix Space Data Centers
+  Link: https://www.universetoday.com/articles/robots-not-astronauts-will-have-to-fix-space-data-centers
 
-- A Gigantic Stellar Eruption Spreads Planetary Material Into Space
-  Link: https://www.universetoday.com/articles/a-gigantic-stellar-eruption-spreads-planetary-material-into-space
+- Chang'e-6 Samples Reveal the Violent Chain Reaction That Built the Moon’s Largest Crater
+  Link: https://www.universetoday.com/articles/change-6-samples-reveal-the-violent-chain-reaction-that-built-the-moons-largest-crater
 
-- The Rise of Astrosociology: What Can Analogue Astronaut Studies Teach us About the Future of Humanity in Space?
-  Link: https://www.universetoday.com/articles/the-rise-of-astrosociology-what-can-analogue-astronaut-studies-teach-us-about-the-future-of-humanity
+- Euclid's Record-Setting Quasar Probes Black Hole Formation
+  Link: https://www.universetoday.com/articles/euclids-record-setting-quasar-probes-black-hole-formation
 
-- Why Mega-Constellations Have a Hidden Space Junk Blind Spot
-  Link: https://www.universetoday.com/articles/why-mega-constellations-have-a-hidden-space-junk-blind-spot
+- The Event Horizon Telescope Views the Dynamics and Geometry of a Black Hole Jet in Extreme Detail
+  Link: https://www.universetoday.com/articles/the-event-horizon-telescope-views-the-dynamics-and-geometry-of-a-black-hole-jet-in-extreme-detailele
+
+- The Physics Wall Facing Orbital AI Data Centers
+  Link: https://www.universetoday.com/articles/the-physics-wall-facing-orbital-ai-data-centers
 
 === ESA Top News ===
+- Hera reveals stadium-sized asteroid crater from spacecraft impact
+  Link: https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/hera-reveals-stadium-sized-asteroid-crater-left-after-spacecraft-impact
+
 - Euclid breaks own quasar record by 40 million years
   Link: https://www.esa.int/articles/about-us/directorates/science/euclid/euclid-breaks-own-quasar-record-by-40-million-years
 
@@ -104,12 +110,9 @@ Generated on: 2026-11-25 18:16:22 UTC
 - Prodex at 40: advancing European space science
   Link: https://www.esa.int/articles/prodex-at-40-advancing-european-space-science
 
-- Hera surveying asteroids with superhuman vision
-  Link: https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/hera-surveying-asteroids-with-superhuman-vision
-
 === Phys.org Archaeology ===
+- Fermented milk may have held ritual power in Neolithic Denmark
+  Link: https://phys.org/news/2026-11-fermented-held-ritual-power-neolithic.html
+
 - Space entrepreneurs should look to 16th-century spice trade for inspiration
   Link: https://phys.org/news/2026-11-space-entrepreneurs-16th-century-spice.html
-
-- US and Iran once practiced diplomacy through archaeology—that legacy need not lie in ruins
-  Link: https://phys.org/news/2026-11-iran-diplomacy-archaeology-legacy.html
