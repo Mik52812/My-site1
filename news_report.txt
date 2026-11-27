@@ -1,32 +1,13 @@
 === DAILY SCIENCE NEWS REPORT ===
-Generated on: 2026-11-26 17:57:47 UTC
+Generated on: 2026-11-27 17:43:00 UTC
 
 === NASA News ===
-- APOD: 2026 November 26 – Eye in the Sky: The Milky Way over Lençóis
-  Link: https://science.nasa.gov/image-article/apod-2026-november-26-eye-in-the-sky-the-milky-way-over-lencois/
-
-- NASA Enhances Supplier Program, Announces Mentor-Protégé Agreement
-  Link: https://www.nasa.gov/organizations/osbp/nasa-enhances-supplier-program-announces-mentor-protege-agreement/
-
-- NASA Eyes Crop Candidates for Future Menus
-  Link: https://science.nasa.gov/directorates/smd/nasa-eyes-crop-candidates-for-future-menus/
-
-- Childhood, Career Come Full Circle for Budget Analyst at NASA Goddard
-  Link: https://www.nasa.gov/centers-and-facilities/goddard/childhood-career-come-full-circle-for-budget-analyst-at-nasa-goddard/
-
-- Eye of the Sahara
-  Link: https://www.nasa.gov/image-article/eye-of-the-sahara/
-
-- NASA’s Hubble Views Ocean of Stars in Groundwork for Roman
-  Link: https://science.nasa.gov/missions/hubble/nasas-hubble-views-ocean-of-stars-in-groundwork-for-roman/
-
-- APOD: 2026 November 25 – SPHEREx Seeing Through Dust
-  Link: https://science.nasa.gov/image-article/apod-2026-november-25-spherex-seeing-through-dust/
-
-- NASA+ Content Coming to Big Screen at Greenbelt, Maryland Cinema
-  Link: https://www.nasa.gov/nasa/nasa-content-coming-to-big-screen-at-greenbelt-maryland-cinema/
+No entries found or failed to parse feed.
 
 === Space News ===
+- Governments Invest $71.8B in Space Defense as Militarization of Space Accelerates
+  Link: https://spacenews.com/governments-invest-71-8b-in-space-defense-as-militarization-of-space-accelerates/
+
 - The ‘bare-knuckled’ future of life in space with Tim Marshall
   Link: https://spacenews.com/the-bare-knuckled-future-of-life-in-space-with-tim-marshall/
 
@@ -54,10 +35,13 @@ Generated on: 2026-11-26 17:57:47 UTC
 - Cosmo Bee to flight-test Honeybee Hall thruster with D-Orbit in 2027
   Link: https://spacenews.com/cosmo-bee-to-flight-test-honeybee-hall-thruster-with-d-orbit-in-2027/
 
-- SpaceNukes Opens Los Alamos Manufacture and Materials Facility to Build Its Next-Generation Space Reactor
-  Link: https://spacenews.com/spacenukes-opens-los-alamos-manufacture-and-materials-facility-to-build-its-next-generation-space-reactor/
-
 === Universe Today ===
+- Should Space Data Centers Run on Solar Panels, Nuclear Reactors, or Both?
+  Link: https://www.universetoday.com/articles/should-space-data-centers-run-on-solar-panels-nuclear-reactors-or-both
+
+- Slingshot Earth: NASA's Europa Clipper Will Gain Speed and Tests Its Instruments During Its Earth Flyby
+  Link: https://www.universetoday.com/articles/slingshot-earth-nasas-europa-clipper-will-gain-speed-and-tests-its-instruments-during-its-earth-flyb
+
 - AI Helps Three Powerful Supercomputers Simulate The Milky Way In Extraordinary Detail
   Link: https://www.universetoday.com/articles/ai-helps-three-powerful-supercomputers-simulate-the-milky-way-in-extraordinary-detail
 
@@ -73,13 +57,13 @@ Generated on: 2026-11-26 17:57:47 UTC
 - Euclid's Record-Setting Quasar Probes Black Hole Formation
   Link: https://www.universetoday.com/articles/euclids-record-setting-quasar-probes-black-hole-formation
 
-- The Event Horizon Telescope Views the Dynamics and Geometry of a Black Hole Jet in Extreme Detail
-  Link: https://www.universetoday.com/articles/the-event-horizon-telescope-views-the-dynamics-and-geometry-of-a-black-hole-jet-in-extreme-detailele
-
-- The Physics Wall Facing Orbital AI Data Centers
-  Link: https://www.universetoday.com/articles/the-physics-wall-facing-orbital-ai-data-centers
-
 === ESA Top News ===
+- Ozone hole one of the largest in decades
+  Link: https://www.esa.int/articles/about-us/directorates/earth-observation-programmes/copernicus/sentinel-5p/ozone-hole-one-of-the-largest-in-decades
+
+- Watch live: Gaia releases its largest-ever goldmine of cosmic data
+  Link: https://www.esa.int/articles/about-us/directorates/science/gaia/watch-live-gaia-releases-its-largest-ever-goldmine-of-cosmic-data
+
 - Hera reveals stadium-sized asteroid crater from spacecraft impact
   Link: https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/hera-reveals-stadium-sized-asteroid-crater-left-after-spacecraft-impact
 
@@ -104,15 +88,6 @@ Generated on: 2026-11-26 17:57:47 UTC
 - First thermal images from Sentinel-3C radiometer
   Link: https://www.esa.int/articles/about-us/directorates/earth-observation-programmes/copernicus/sentinel-3/first-thermal-images-from-sentinel-3c-radiometer
 
-- In the shadow of volcanic giants
-  Link: https://www.esa.int/articles/about-us/directorates/science/mars-express/in-the-shadow-of-volcanic-giants
-
-- Prodex at 40: advancing European space science
-  Link: https://www.esa.int/articles/prodex-at-40-advancing-european-space-science
-
 === Phys.org Archaeology ===
 - Fermented milk may have held ritual power in Neolithic Denmark
   Link: https://phys.org/news/2026-11-fermented-held-ritual-power-neolithic.html
-
-- Space entrepreneurs should look to 16th-century spice trade for inspiration
-  Link: https://phys.org/news/2026-11-space-entrepreneurs-16th-century-spice.html
